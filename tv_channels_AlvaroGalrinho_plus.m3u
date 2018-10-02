@@ -1,0 +1,953 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTP1" tvg-name="RTP 1 FHD" tvg-logo="http://www.triploplay.com/epgn/logostv/meo/rtp1meo.png" group-title="PORTUGAL",RTP 1 FHD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/8449.ts
+#EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1 HD" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/rtp1.png" group-title="PORTUGAL",RTP 1 HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/8448.ts
+#EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/rtp1.png" group-title="PORTUGAL",RTP 1
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/8447.ts
+#EXTINF:-1 tvg-id="RTP 2 FHD" tvg-name="RTP 2 FHD" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/rtp2.png" group-title="PORTUGAL",RTP 2 FHD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/9556.ts
+#EXTINF:-1 tvg-id="RTP 2 (LOW BITRATE)" tvg-name="RTP 2 HD" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/rtp2.png" group-title="PORTUGAL",RTP 2 HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/4.ts
+#EXTINF:-1 tvg-id="RTP2" tvg-name="RTP 2" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/rtp2.png" group-title="PORTUGAL",RTP 2
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/5.ts
+#EXTINF:-1 tvg-id="RTP3" tvg-name="RTP3" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/rtp3.png" group-title="PORTUGAL",RTP3
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/6.ts
+#EXTINF:-1 tvg-id="SIC ALTERNATIVA 1" tvg-name="SIC FHD" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/sic.png" group-title="PORTUGAL",SIC FHD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/3713.ts
+#EXTINF:-1 tvg-id="SIC (LOW BITRATE)" tvg-name="SIC HD" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/sic.png" group-title="PORTUGAL",SIC HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/7.ts
+#EXTINF:-1 tvg-id="SIC" tvg-name="SIC" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/sic.png" group-title="PORTUGAL",SIC
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/8.ts
+#EXTINF:-1 tvg-id="TVI HD" tvg-name="TVI FHD" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/tvi%20(2).png" group-title="PORTUGAL",TVI FHD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/8450.ts
+#EXTINF:-1 tvg-id="TVI HD" tvg-name="TVI HD" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/tvi%20(2).png" group-title="PORTUGAL",TVI HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/8451.ts
+#EXTINF:-1 tvg-id="TVI HD" tvg-name="TVI" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/tvi%20(2).png" group-title="PORTUGAL",TVI
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/4423.ts
+#EXTINF:-1 tvg-id="TPA" tvg-name="TPA Internacional" tvg-logo="http://www.triploplay.com/epgn/logostv/meo/tpa.jpg" group-title="PORTUGAL",TPA Internacional
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/3410.ts
+#EXTINF:-1 tvg-id="TCVINT" tvg-name="TCV INTERNACIONAL" tvg-logo="http://www.rtc.cv/admin/imgBD/estaticos/logotipo_tcv.png" group-title="PORTUGAL",TCV INTERNACIONAL
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/8680.ts
+#EXTINF:-1 tvg-id="" tvg-name="★● INFORMAÇÃO ●•★" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/Information.png" group-title="PORTUGAL",★● INFORMAÇÃO ●•★
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/11.ts
+#EXTINF:-1 tvg-id="SICN" tvg-name="SIC NOTICIAS HD" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/sicnoticias.png" group-title="PORTUGAL",SIC NOTICIAS HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/3338.ts
+#EXTINF:-1 tvg-id="SICNOTICIASHD" tvg-name="SIC NOTICIAS" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/sicnoticias.png" group-title="PORTUGAL",SIC NOTICIAS
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/12.ts
+#EXTINF:-1 tvg-id="TVI24" tvg-name="TVI 24" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/tvi24nos.png" group-title="PORTUGAL",TVI 24
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/13.ts
+#EXTINF:-1 tvg-id="CMTVHD" tvg-name="CMTV FHD" tvg-logo="http://www.triploplay.com/epgn/logostv/meo/cm.png" group-title="PORTUGAL",CMTV FHD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/2370.ts
+#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV" tvg-logo="http://www.triploplay.com/epgn/logostv/meo/cm.png" group-title="PORTUGAL",CMTV
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/14.ts
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="http://www.triploplay.com/epgn/logostv/meo/cnn.png" group-title="PORTUGAL",CNN
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/16.ts
+#EXTINF:-1 tvg-id="EURON" tvg-name="EUROSPORT NEWS" tvg-logo="http://www.triploplay.com/epgn/logostv/meo/euronews.png" group-title="PORTUGAL",EUROSPORT NEWS
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/18.ts
+#EXTINF:-1 tvg-id="SICR" tvg-name="SIC RADICAL" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/sicradical.png" group-title="PORTUGAL",SIC RADICAL
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/2387.ts
+#EXTINF:-1 tvg-id="FASHIONTVHD" tvg-name="FASHION TV HD" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/fashiontvnos.png" group-title="PORTUGAL",FASHION TV HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/2383.ts
+#EXTINF:-1 tvg-id="CRIMEINV" tvg-name="CRIME + INVESTIGATION CI" tvg-logo="http://www.triploplay.com/epgn/logostv/meo/Crime_and_Investigation_logo.png" group-title="PORTUGAL",CRIME + INVESTIGATION CI
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/3715.ts
+#EXTINF:-1 tvg-id="" tvg-name="★●• ENTRETENIMENTO ●•★" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/Information.png" group-title="PORTUGAL",★●• ENTRETENIMENTO ●•★
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/19.ts
+#EXTINF:-1 tvg-id="SICR" tvg-name="SIC RADICAL HD" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/sicradical.png" group-title="PORTUGAL",SIC RADICAL HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/20.ts
+#EXTINF:-1 tvg-id="SICM" tvg-name="SIC MULHER" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/sicmulhernos.png" group-title="PORTUGAL",SIC MULHER
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/21.ts
+#EXTINF:-1 tvg-id="SICCARAS" tvg-name="SIC CARAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_CARAS.png/150px-SIC_CARAS.png" group-title="PORTUGAL",SIC CARAS HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/22.ts
+#EXTINF:-1 tvg-id="SICCARAS" tvg-name="SIC CARAS" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/siccarasnos.png" group-title="PORTUGAL",SIC CARAS
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/8929.ts
+#EXTINF:-1 tvg-id="TVI Ficção" tvg-name="TVI FICCAO" tvg-logo="http://www.triploplay.com/epgn/logostv/meo/tvificcao.png" group-title="PORTUGAL",TVI FICCAO
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/23.ts
+#EXTINF:-1 tvg-id="TVIREAL" tvg-name="TVI REALITY" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/tvireality.png" group-title="PORTUGAL",TVI REALITY
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/3708.ts
+#EXTINF:-1 tvg-id="TVIREALM" tvg-name="TVI REALITY - MOSAICO" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/tvireality.png" group-title="PORTUGAL",TVI REALITY - MOSAICO
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/25.ts
+#EXTINF:-1 tvg-id="TVIREALC1" tvg-name="TVI REALITY CAMARA  1" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/tvireality.png" group-title="PORTUGAL",TVI REALITY CAMARA  1
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/2391.ts
+#EXTINF:-1 tvg-id="TVIREALC2" tvg-name="TVI REALITY CAMARA  2" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/tvireality.png" group-title="PORTUGAL",TVI REALITY CAMARA  2
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/2390.ts
+#EXTINF:-1 tvg-id="TVIREALC3" tvg-name="TVI REALITY CAMARA  3" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/tvireality.png" group-title="PORTUGAL",TVI REALITY CAMARA  3
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/2389.ts
+#EXTINF:-1 tvg-id="TVIREALCE" tvg-name="TVI REALITY CAMARA  4" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/tvireality.png" group-title="PORTUGAL",TVI REALITY CAMARA  4
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/2388.ts
+#EXTINF:-1 tvg-id="24KITCHENHD" tvg-name="24 KITCHEN HD" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/24kitchenhdnos.png" group-title="PORTUGAL",24 KITCHEN HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/26.ts
+#EXTINF:-1 tvg-id="CanalQB" tvg-name="CANAL Q" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/canalq.png" group-title="PORTUGAL",CANAL Q
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/27.ts
+#EXTINF:-1 tvg-id="" tvg-name="SANTUARIO FATIMA" tvg-logo="http://www.nos.pt/particulares/televisao/canais/PublishingImages/alteracoes-grelha/maio2017/fatimatv-logo/large_fatimatv.jpg" group-title="PORTUGAL",SANTUARIO FATIMA
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/11634.ts
+#EXTINF:-1 tvg-id="ANGELUSTV" tvg-name="CANAL ANGELUS TV" tvg-logo="https://www.dragteam.info/attachments/1_0_1_cb_66_53_ce40000_0_0_0-png.48897/" group-title="PORTUGAL",CANAL ANGELUS TV
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/11633.ts
+#EXTINF:-1 tvg-id="KuriakosTVFullHD" tvg-name="KURIAKOS TV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/99/Medium_kuriakos.jpg/revision/latest?cb=20170715125251" group-title="PORTUGAL",KURIAKOS TV
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/11632.ts
+#EXTINF:-1 tvg-id="" tvg-name="★●• DESPORTO ●•★" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/Information.png" group-title="PORTUGAL",★●• DESPORTO ●•★
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/28.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1 FHD" tvg-logo="https://b2cproductionsite-be80wkthrgjjkmzuip0.netdna-ssl.com/sites/b2c/files/elevensports_1_icon_20171214.png" group-title="PORTUGAL",ELEVEN SPORTS 1 FHD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/13133.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="https://b2cproductionsite-be80wkthrgjjkmzuip0.netdna-ssl.com/sites/b2c/files/elevensports_1_icon_20171214.png" group-title="PORTUGAL",ELEVEN SPORTS 1 HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/13847.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1 HD*" tvg-logo="https://b2cproductionsite-be80wkthrgjjkmzuip0.netdna-ssl.com/sites/b2c/files/elevensports_1_icon_20171214.png" group-title="PORTUGAL",ELEVEN SPORTS 1 HD*
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/13342.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1" tvg-logo="https://b2cproductionsite-be80wkthrgjjkmzuip0.netdna-ssl.com/sites/b2c/files/elevensports_1_icon_20171214.png" group-title="PORTUGAL",ELEVEN SPORTS 1
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/13846.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1 LOW" tvg-logo="https://b2cproductionsite-be80wkthrgjjkmzuip0.netdna-ssl.com/sites/b2c/files/elevensports_1_icon_20171214.png" group-title="PORTUGAL",ELEVEN SPORTS 1 LOW
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/13139.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2 FHD" tvg-logo="http://www.km-net.pl//thumb.php/200_150//public/content/00/00/17/a6/123_Eleven_Sports_2_HD.png" group-title="PORTUGAL",ELEVEN SPORTS 2 FHD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/13134.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2 HD LOW*" tvg-logo="" group-title="PORTUGAL",ELEVEN SPORTS 2 HD LOW*
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/13339.ts
+#EXTINF:-1 tvg-id="SPTVMAISHD" tvg-name="SPORT TV + FHD" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/sportvmaisnos.png" group-title="PORTUGAL",SPORT TV + FHD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/29.ts
+#EXTINF:-1 tvg-id="SPTVMAISHD" tvg-name="SPORT TV +" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/sportvmaisnos.png" group-title="PORTUGAL",SPORT TV +
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/30.ts
+#EXTINF:-1 tvg-id="SPORTV1HD(LOWBITRATE)" tvg-name="SPORT TV 1 FHD" tvg-logo="http://www.triploplay.com/epgn/logostv/meo/sporttv1hdmeo.png" group-title="PORTUGAL",SPORT TV 1 FHD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/8445.ts
+#EXTINF:-1 tvg-id="SPORTV1HD." tvg-name="SPORT TV 1 HD" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/sportv1hd.png" group-title="PORTUGAL",SPORT TV 1 HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/32.ts
+#EXTINF:-1 tvg-id="SPTV" tvg-name="SPORT TV 1" tvg-logo="http://www.triploplay.com/epgn/logostv/meo/sportv1.png" group-title="PORTUGAL",SPORT TV 1
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/8446.ts
+#EXTINF:-1 tvg-id="SPTV_2HD" tvg-name="SPORT TV 2 FHD" tvg-logo="http://www.triploplay.com/epgn/logostv/meo/sportvtv2hdmeo.png" group-title="PORTUGAL",SPORT TV 2 FHD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/34.ts
+#EXTINF:-1 tvg-id="SPTV_2HD" tvg-name="SPORT TV 2 HD" tvg-logo="http://www.triploplay.com/epgn/logostv/meo/sportvtv2hdmeo.png" group-title="PORTUGAL",SPORT TV 2 HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/35.ts
+#EXTINF:-1 tvg-id="SPTV_2" tvg-name="SPORT TV 2" tvg-logo="http://www.triploplay.com/epgn/logostv/meo/sportv2meo.png" group-title="PORTUGAL",SPORT TV 2
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/36.ts
+#EXTINF:-1 tvg-id="SPTV_3HD" tvg-name="SPORT TV 3 FHD" tvg-logo="http://www.triploplay.com/epgn/logostv/meo/sportv3hdmeo.png" group-title="PORTUGAL",SPORT TV 3 FHD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/37.ts
+#EXTINF:-1 tvg-id="SPTV_3HD" tvg-name="SPORT TV 3 HD" tvg-logo="http://www.triploplay.com/epgn/logostv/meo/sportv3hdmeo.png" group-title="PORTUGAL",SPORT TV 3 HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/38.ts
+#EXTINF:-1 tvg-id="SPTV_3" tvg-name="SPORT TV 3" tvg-logo="http://www.triploplay.com/epgn/logostv/meo/sportv3meo.png" group-title="PORTUGAL",SPORT TV 3
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/39.ts
+#EXTINF:-1 tvg-id="SPTV_4HD" tvg-name="SPORT TV 4 FHD" tvg-logo="http://cinestrenostv.tv/img/Sport-TV4-HD.png" group-title="PORTUGAL",SPORT TV 4 FHD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/2362.ts
+#EXTINF:-1 tvg-id="SPTV_4HD" tvg-name="SPORT TV 4 HD" tvg-logo="http://cinestrenostv.tv/img/Sport-TV4-HD.png" group-title="PORTUGAL",SPORT TV 4 HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/40.ts
+#EXTINF:-1 tvg-id="SPTV_4" tvg-name="SPORT TV 4" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/sportv4nos.png" group-title="PORTUGAL",SPORT TV 4
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/41.ts
+#EXTINF:-1 tvg-id="SPTV_5HD" tvg-name="SPORT TV 5 FHD" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/sportv5nos.png" group-title="PORTUGAL",SPORT TV 5 FHD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/2363.ts
+#EXTINF:-1 tvg-id="SPTV_5HD" tvg-name="SPORT TV 5 HD" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/sportv5nos.png" group-title="PORTUGAL",SPORT TV 5 HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/42.ts
+#EXTINF:-1 tvg-id="SPTV_5HD" tvg-name="SPORT TV 5" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/sportv5nos.png" group-title="PORTUGAL",SPORT TV 5
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/43.ts
+#EXTINF:-1 tvg-id="BENFICATV1HD" tvg-name="BTV 1 FHD" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/btvhd.png" group-title="PORTUGAL",BTV 1 FHD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/3724.ts
+#EXTINF:-1 tvg-id="BENFICATV1HD" tvg-name="BTV 1  HD" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/btvhd.png" group-title="PORTUGAL",BTV 1  HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/3725.ts
+#EXTINF:-1 tvg-id="BENFICATV1" tvg-name="BTV 1" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/btv.png" group-title="PORTUGAL",BTV 1
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/46.ts
+#EXTINF:-1 tvg-id="PORTOHD" tvg-name="PORTO CANAL HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/Porto-Canal-Novo.png/revision/latest?cb=20160112063510" group-title="PORTUGAL",PORTO CANAL HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/15.ts
+#EXTINF:-1 tvg-id="PORTO" tvg-name="PORTO CANAL" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/Porto-Canal-Novo.png/revision/latest?cb=20160112063510" group-title="PORTUGAL",PORTO CANAL
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/6720.ts
+#EXTINF:-1 tvg-id="SPORTINGTVHD" tvg-name="SPORTING TV HD" tvg-logo="http://www.triploplay.com/epgn/logostv/meo/sportingtv.png" group-title="PORTUGAL",SPORTING TV HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/2364.ts
+#EXTINF:-1 tvg-id="SPORTINGTV" tvg-name="SPORTING TV" tvg-logo="http://www.triploplay.com/epgn/logostv/meo/sportingtv.png" group-title="PORTUGAL",SPORTING TV
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/47.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="http://www.triploplay.com/epgn/logostv/meo/nbatv.png" group-title="PORTUGAL",NBA TV
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/3696.ts
+#EXTINF:-1 tvg-id="A Bola TV" tvg-name="A BOLA TV" tvg-logo="http://www.triploplay.com/epgn/logostv/meo/bolatv.png" group-title="PORTUGAL",A BOLA TV
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/48.ts
+#EXTINF:-1 tvg-id="EurosportHD" tvg-name="EUROSPORT 1" tvg-logo="http://www.triploplay.com/epgn/logostv/meo/eurosport1.png" group-title="PORTUGAL",EUROSPORT 1
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/50.ts
+#EXTINF:-1 tvg-id="EUROS" tvg-name="EUROSPORT 1 HD" tvg-logo="http://www.triploplay.com/epgn/logostv/meo/eurosport1hd.png" group-title="PORTUGAL",EUROSPORT 1 HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/49.ts
+#EXTINF:-1 tvg-id="EUROS" tvg-name="EUROSPORT 1 HD LOW" tvg-logo="http://www.triploplay.com/epgn/logostv/meo/eurosport1hd.png" group-title="PORTUGAL",EUROSPORT 1 HD LOW
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/9557.ts
+#EXTINF:-1 tvg-id="EUROS2" tvg-name="EUROSPORT 2" tvg-logo="http://www.triploplay.com/epgn/logostv/meo/eurosport2meo.png" group-title="PORTUGAL",EUROSPORT 2
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/51.ts
+#EXTINF:-1 tvg-id="Caça Vision" tvg-name="CACAVISION" tvg-logo="http://www.triploplay.com/epgn/logostv/meo/cacavision.png" group-title="PORTUGAL",CACAVISION
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/53.ts
+#EXTINF:-1 tvg-id="CACAPESCA" tvg-name="CACA E PESCA" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/cacaepesca.png" group-title="PORTUGAL",CACA E PESCA
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/54.ts
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="REAL MADRID TV" tvg-logo="http://www.triploplay.com/epgn/logostv/meo/realmadrid.png" group-title="PORTUGAL",REAL MADRID TV
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/56.ts
+#EXTINF:-1 tvg-id="MOTORVISIONHD" tvg-name="MOTORVISION HD" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/motors.png" group-title="PORTUGAL",MOTORVISION HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/58.ts
+#EXTINF:-1 tvg-id="Motors TV" tvg-name="MOTORS TV" tvg-logo="https://www.thelogodb.com/images/media/logo/qyxuwt1433346085.png/medium" group-title="PORTUGAL",MOTORS TV
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/59.ts
+#EXTINF:-1 tvg-id="FUELHD" tvg-name="FUEL TV HD" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/fueltv.png" group-title="PORTUGAL",FUEL TV HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/60.ts
+#EXTINF:-1 tvg-id="BOISHD" tvg-name="TOROS TV HD" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/torosnos.png" group-title="PORTUGAL",TOROS TV HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/2365.ts
+#EXTINF:-1 tvg-id="FIGHTHD" tvg-name="FIGHT NETWORK HD" tvg-logo="http://www.triploplay.com/epgn/logostv/meo/fightnetwork.jpg" group-title="PORTUGAL",FIGHT NETWORK HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/61.ts
+#EXTINF:-1 tvg-id="" tvg-name="KOMBAT SPORT HD" tvg-logo="http://www.bce.lu/wp-content/uploads/2016/06/LOGO-Kombat_Sport.png" group-title="PORTUGAL",KOMBAT SPORT HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/777.ts
+#EXTINF:-1 tvg-id="PFC" tvg-name="PFC" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/pfc.png" group-title="PORTUGAL",PFC
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/62.ts
+#EXTINF:-1 tvg-id="" tvg-name="★●• FILMES  ●•★" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/Information.png" group-title="PORTUGAL",★●• FILMES  ●•★
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/63.ts
+#EXTINF:-1 tvg-id="TVC1HD" tvg-name="TVCINE 1 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a7/TVC1_2012.png/revision/latest?cb=20140404133828" group-title="PORTUGAL",TVCINE 1 HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/64.ts
+#EXTINF:-1 tvg-id="TVC1" tvg-name="TVCINE 1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a7/TVC1_2012.png/revision/latest?cb=20140404133828" group-title="PORTUGAL",TVCINE 1
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/65.ts
+#EXTINF:-1 tvg-id="TVC2HD" tvg-name="TVCINE 2 HD" tvg-logo="http://portalnacional.com.pt/images/icons/tv/TVC2HD.png" group-title="PORTUGAL",TVCINE 2 HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/66.ts
+#EXTINF:-1 tvg-id="TVC2" tvg-name="TVCINE 2" tvg-logo="http://i.imgur.com/ygfeoOl.png" group-title="PORTUGAL",TVCINE 2
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/67.ts
+#EXTINF:-1 tvg-id="TVC3HD" tvg-name="TVCINE 3 HD" tvg-logo="http://portalnacional.com.pt/images/icons/tv/TVC3.png" group-title="PORTUGAL",TVCINE 3 HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/68.ts
+#EXTINF:-1 tvg-id="TVC3HD" tvg-name="TVCINE 3" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/TVC3_2012.png/revision/latest?cb=20140404133337" group-title="PORTUGAL",TVCINE 3
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/69.ts
+#EXTINF:-1 tvg-id="TVC4HD" tvg-name="TVCINE 4 HD" tvg-logo="http://portalnacional.com.pt/images/icons/tv/TVC4.png" group-title="PORTUGAL",TVCINE 4 HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/70.ts
+#EXTINF:-1 tvg-id="TVC4" tvg-name="TVCINE 4" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/TVC4_2012.png/revision/latest?cb=20140404133134" group-title="PORTUGAL",TVCINE 4
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/71.ts
+#EXTINF:-1 tvg-id="HOLLY" tvg-name="HOLLYWOOD HD" tvg-logo="http://www.fibratell.com/s/cc_images/teaserbox_2468892606.png?t=1469784543" group-title="PORTUGAL",HOLLYWOOD HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/72.ts
+#EXTINF:-1 tvg-id="HOLLY" tvg-name="HOLLYWOOD" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/hollywoodhd.png" group-title="PORTUGAL",HOLLYWOOD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/73.ts
+#EXTINF:-1 tvg-id="FOXMOVIESHD" tvg-name="FOX MOVIES HD" tvg-logo="http://img-youpeliculas.com/images/2015/02/27/FOXMOVIESHDcoujQ.png" group-title="PORTUGAL",FOX MOVIES HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/2367.ts
+#EXTINF:-1 tvg-id="FOXMOVIES" tvg-name="FOX MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/FOX-Movies.png" group-title="PORTUGAL",FOX MOVIES
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/74.ts
+#EXTINF:-1 tvg-id="AMCHD" tvg-name="AMC HD" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/amchd.png" group-title="PORTUGAL",AMC HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/1853.ts
+#EXTINF:-1 tvg-id="AMCHD" tvg-name="AMC" tvg-logo="http://www.triploplay.com/epgn/logostv/nos/amcnos.png" group-title="PORTUGAL",AMC
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/76.ts
+#EXTINF:-1 tvg-id="Cinemundo HD" tvg-name="CINEMUNDO HD" tvg-logo="http://www.triploplay.com/epgn/logostv/meo/cinemundo.png" group-title="PORTUGAL",CINEMUNDO HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/77.ts
+#EXTINF:-1 tvg-id="" tvg-name="★●• SERIES ●•★" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/Information.png" group-title="PORTUGAL",★●• SERIES ●•★
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/78.ts
+#EXTINF:-1 tvg-id="TVSERIES" tvg-name="TV SERIES" tvg-logo="http://www.triploplay.com/epgn/logostv/meo/tvs.png" group-title="PORTUGAL",TV SERIES
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/80.ts
+#EXTINF:-1 tvg-id="TVSERIES" tvg-name="TV SERIES HD" tvg-logo="http://www.triploplay.com/epgn/logostv/meo/tvs.png" group-title="PORTUGAL",TV SERIES HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/79.ts
+#EXTINF:-1 tvg-id="AXN White HD" tvg-name="AXN WHITE HD" tvg-logo="http://www.triploplay.com/epgn/logostv/meo/axnwhitehd.png" group-title="PORTUGAL",AXN WHITE HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/82.ts
+#EXTINF:-1 tvg-id="AXNBLACK" tvg-name="AXN BLACK HD" tvg-logo="http://www.triploplay.com/epgn/logostv/meo/axnblackhd.png" group-title="PORTUGAL",AXN BLACK HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/83.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="PORTUGAL",AXN
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/8416.ts
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="http://www.triploplay.com/epgn/logostv/meo/axnhdmeo.png" group-title="PORTUGAL",AXN HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/81.ts
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="http://1.bp.blogspot.com/-29NNCGLPlko/Ut72PsTXP4I/AAAAAAAAg_4/J1QBSbv1_eQ/s1600/fox.png" group-title="PORTUGAL",FOX
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/9666.ts
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX HD" tvg-logo="http://www.triploplay.com/epgn/logostv/meo/foxhd.png" group-title="PORTUGAL",FOX HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/84.ts
+#EXTINF:-1 tvg-id="FOXCRIMEHD" tvg-name="FOX CRIME HD" tvg-logo="https://www.thelogodb.com/images/media/logo/uqsxut1436892701.png/medium" group-title="PORTUGAL",FOX CRIME HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/86.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD" tvg-logo="https://www.thelogodb.com/images/media/logo/ttvpyv1436846997.png/medium" group-title="PORTUGAL",FOX LIFE HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/85.ts
+#EXTINF:-1 tvg-id="FOX COMEDY HD" tvg-name="FOX COMEDY HD" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-comedy-hd.png" group-title="PORTUGAL",FOX COMEDY HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/2373.ts
+#EXTINF:-1 tvg-id="FOX COMEDY HD" tvg-name="FOX COMEDY" tvg-logo="https://www.thelogodb.com/images/media/logo/tqxpxq1448198387.png/medium" group-title="PORTUGAL",FOX COMEDY
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/88.ts
+#EXTINF:-1 tvg-id="FOX News" tvg-name="FOX NEWS" tvg-logo="http://www.employability-expert.com/wp-content/gallery/media-carousel/fox-news-logo.png" group-title="PORTUGAL",FOX NEWS
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/89.ts
+#EXTINF:-1 tvg-id="SKYFY HD" tvg-name="SyFy HD" tvg-logo="http://vignette1.wikia.nocookie.net/logosfake/images/6/67/Syfy_HD.png/revision/latest/window-crop/width/200/x-offset/0/y-offset/0/window-width/801/window-height/400?cb=20140430122835" group-title="PORTUGAL",SyFy HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/2374.ts
+#EXTINF:-1 tvg-id="SyFy" tvg-name="SYFY" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SyFy.png" group-title="PORTUGAL",SYFY
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/90.ts
+#EXTINF:-1 tvg-id="" tvg-name="★●• INFANTIL ●•★" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/Information.png" group-title="PORTUGAL",★●• INFANTIL ●•★
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/92.ts
+#EXTINF:-1 tvg-id="Nicke" tvg-name="Nick Jr" tvg-logo="http://www.cuddlycollectibles.com/Backgrounds/image/nick_jr/nick-jr.png" group-title="PORTUGAL",Nick Jr
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/8772.ts
+#EXTINF:-1 tvg-id="DISNEYJUNIOR" tvg-name="DISNEY JUNIOR" tvg-logo="https://www.thelogodb.com/images/media/logo/uvsyur1433943132.png/medium" group-title="PORTUGAL",DISNEY JUNIOR
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/93.ts
+#EXTINF:-1 tvg-id="DISNY" tvg-name="DISNEY CHANNEL" tvg-logo="https://www.thelogodb.com/images/media/logo/supsrs1433943151.png/medium" group-title="PORTUGAL",DISNEY CHANNEL
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/94.ts
+#EXTINF:-1 tvg-id="SIC K" tvg-name="SIC K" tvg-logo="https://www.thelogodb.com/images/media/logo/vuxyry1436891832.png/medium" group-title="PORTUGAL",SIC K
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/95.ts
+#EXTINF:-1 tvg-id="PANDA" tvg-name="CANAL PANDA" tvg-logo="https://www.thelogodb.com/images/media/logo/ruptxu1434712542.png/medium" group-title="PORTUGAL",CANAL PANDA
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/96.ts
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="BABY TV" tvg-logo="https://www.thelogodb.com/images/media/logo/qwyswv1433940875.png/medium" group-title="PORTUGAL",BABY TV
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/97.ts
+#EXTINF:-1 tvg-id="BABYFIRST" tvg-name="BABY FIRST" tvg-logo="https://www.thelogodb.com/images/media/logo/yrsxyr1436899990.png/medium" group-title="PORTUGAL",BABY FIRST
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/98.ts
+#EXTINF:-1 tvg-id="PANDABIGGS" tvg-name="BIGGS" tvg-logo="https://www.thelogodb.com/images/media/logo/sypyqw1456252768.png/medium" group-title="PORTUGAL",BIGGS
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/99.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://www.thelogodb.com/images/media/logo/rqswvs1435142683.png/medium" group-title="PORTUGAL",CARTOON NETWORK
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/100.ts
+#EXTINF:-1 tvg-id="JimJam" tvg-name="JIM JAM" tvg-logo="https://www.thelogodb.com/images/media/logo/yupwrv1435102443.png/medium" group-title="PORTUGAL",JIM JAM
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/101.ts
+#EXTINF:-1 tvg-id="Nicke" tvg-name="NICKELODEON" tvg-logo="https://www.thelogodb.com/images/media/logo/yvvryy1434269239.png/medium" group-title="PORTUGAL",NICKELODEON
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/102.ts
+#EXTINF:-1 tvg-id="" tvg-name="★●• Musica ●•★" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/Information.png" group-title="PORTUGAL",★●• Musica ●•★
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/126.ts
+#EXTINF:-1 tvg-id="" tvg-name="CLUBBING TV" tvg-logo="https://4.bp.blogspot.com/-MsOu9T4sbxQ/TqxR5Yq5zMI/AAAAAAAAAtE/J_F01_pzfZk/s1600/Clubbing+TV+logo+2+peq.png" group-title="PORTUGAL",CLUBBING TV
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/9188.ts
+#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="http://hugetv.org/wp-content/uploads/2016/05/vh1.png" group-title="PORTUGAL",VH1
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/127.ts
+#EXTINF:-1 tvg-id="VH1Classic" tvg-name="VH1 CLASSIC" tvg-logo="https://3.bp.blogspot.com/-e3Bspi4DXuE/VcnDzQWtqbI/AAAAAAAAZHQ/HnIqM9AB4EM/s1600/281x211_logo.png" group-title="PORTUGAL",VH1 CLASSIC
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/128.ts
+#EXTINF:-1 tvg-id="TRACEURBANHD" tvg-name="TRACE URBAN" tvg-logo="https://www.thelogodb.com/images/media/logo/rvsssy1435096176.png/medium" group-title="PORTUGAL",TRACE URBAN
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/129.ts
+#EXTINF:-1 tvg-id="MTV PORTUGAL HD" tvg-name="MTV PORTUGAL" tvg-logo="http://portalnacional.com.pt/images/icons/tv/MTV.png" group-title="PORTUGAL",MTV PORTUGAL
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/130.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV DANCE" tvg-logo="https://www.thelogodb.com/images/media/logo/vpxwty1438373956.png/medium" group-title="PORTUGAL",MTV DANCE
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/131.ts
+#EXTINF:-1 tvg-id="MTV MUSIC1" tvg-name="MTV MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/MTV_Music_2015.png" group-title="PORTUGAL",MTV MUSIC
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/4255.ts
+#EXTINF:-1 tvg-id="MTVROCKS" tvg-name="MTV ROCKS" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-mtv-rocks.png" group-title="PORTUGAL",MTV ROCKS
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/4256.ts
+#EXTINF:-1 tvg-id="MCM" tvg-name="MCM TOP" tvg-logo="https://www.thelogodb.com/images/media/logo/wxusxr1433520139.png/medium" group-title="PORTUGAL",MCM TOP
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/132.ts
+#EXTINF:-1 tvg-id="MCMPOP" tvg-name="MCM POP" tvg-logo="https://www.thelogodb.com/images/media/logo/rvtqvs1435092184.png/medium" group-title="PORTUGAL",MCM POP
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/133.ts
+#EXTINF:-1 tvg-id="C-Music" tvg-name="C-MUSIC" tvg-logo="https://www.thelogodb.com/images/media/logo/usysts1436893905.png/medium" group-title="PORTUGAL",C-MUSIC
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/134.ts
+#EXTINF:-1 tvg-id="Afro Music" tvg-name="AFRO MUSIC" tvg-logo="https://www.thelogodb.com/images/media/logo/wuwsqr1471027299.png/medium" group-title="PORTUGAL",AFRO MUSIC
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/135.ts
+#EXTINF:-1 tvg-id="MEZZO" tvg-name="MEZZO" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/9/96/MEZZO_2011.png/revision/latest?cb=20150313181250" group-title="PORTUGAL",MEZZO
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/1854.ts
+#EXTINF:-1 tvg-id="iconcertshd" tvg-name="ICONCERTS HD" tvg-logo="https://www.thelogodb.com/images/media/logo/qxqtsv1436893554.png/medium" group-title="PORTUGAL",ICONCERTS HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/137.ts
+#EXTINF:-1 tvg-id="" tvg-name="●★DOCUMENTARIOS★●" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/Information.png" group-title="PORTUGAL",●★DOCUMENTARIOS★●
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/103.ts
+#EXTINF:-1 tvg-id="Luxe TV HD" tvg-name="LUXE TV HD" tvg-logo="https://www.thelogodb.com/images/media/logo/rtywwq1436890764.png" group-title="PORTUGAL",LUXE TV HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/9189.ts
+#EXTINF:-1 tvg-id="Discovery" tvg-name="DISCOVERY HD SHOWCASE" tvg-logo="https://www.thelogodb.com/images/media/logo/tqxspq1444920241.png/medium" group-title="PORTUGAL",DISCOVERY HD SHOWCASE
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/105.ts
+#EXTINF:-1 tvg-id="DISCOVERYHD" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://fanart.tv/api/download.php?type=download&image=14144&section=1" group-title="PORTUGAL",DISCOVERY CHANNEL
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/106.ts
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC EUROPE" tvg-logo="https://www.thelogodb.com/images/media/logo/qwvwsy1433426141.png/medium" group-title="PORTUGAL",CNBC EUROPE
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/107.ts
+#EXTINF:-1 tvg-id="" tvg-name="MCS EXTREME" tvg-logo="https://www.thelogodb.com/images/media/logo/ruywtq1435099021.png/medium" group-title="PORTUGAL",MCS EXTREME
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/108.ts
+#EXTINF:-1 tvg-id="TRAVEL" tvg-name="TRAVEL CHANNEL HD" tvg-logo="https://www.thelogodb.com/images/media/logo/urtwxv1436847726.png/medium" group-title="PORTUGAL",TRAVEL CHANNEL HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/109.ts
+#EXTINF:-1 tvg-id="NGC" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://www.thelogodb.com/images/media/logo/xuxuuq1433966491.png/medium" group-title="PORTUGAL",NATIONAL GEOGRAPHIC HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/110.ts
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD HD" tvg-logo="http://www.atlantiswatergardens.com/uploads/2/5/7/1/25713565/9292271_orig.png" group-title="PORTUGAL",NAT GEO WILD HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/111.ts
+#EXTINF:-1 tvg-id="ODIS" tvg-name="ODISSEIA" tvg-logo="http://www.logotipo.pt/wp-content/uploads/2011/03/logotipoptodisseia.jpg" group-title="PORTUGAL",ODISSEIA
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/112.ts
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA" tvg-logo="http://drupal-multisite-s3.s3-us-west-2.amazonaws.com/files/history_logo_2015_4c_black_type.png" group-title="PORTUGAL",HISTORIA
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/113.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY NEWS" tvg-logo="http://tomburke.co.uk/wp-content/uploads/2016/10/sky-news-logo.png" group-title="PORTUGAL",SKY NEWS
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/114.ts
+#EXTINF:-1 tvg-id="FRANCE24FR" tvg-name="FRANCE 24" tvg-logo="http://i.amz.mshcdn.com/sC0z9dG9GSyf6uCIBuYr_wu9rGc=/200x200/2016%2F07%2F06%2F85%2Fhttpsblueprintapiproduction.s3.amazonaws.comuploads.ae497.png" group-title="PORTUGAL",FRANCE 24
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/115.ts
+#EXTINF:-1 tvg-id="EURON" tvg-name="EURONEWS" tvg-logo="http://www.thelogodb.com/images/media/logo/wytsyp1478614643.png/medium" group-title="PORTUGAL",EURONEWS
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/116.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD NEWS HD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/016.png" group-title="PORTUGAL",BBC WORLD NEWS HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/117.ts
+#EXTINF:-1 tvg-id="BBC Entertainment" tvg-name="BBC ENTERTAINMENT" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/9/93/BBCEntertaiment.png/revision/latest?cb=20151114155029" group-title="PORTUGAL",BBC ENTERTAINMENT
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/119.ts
+#EXTINF:-1 tvg-id="EENTER" tvg-name="E! ENTERTAINMENT" tvg-logo="http://vignette1.wikia.nocookie.net/milgreen/images/2/23/E!_logo.png/revision/latest?cb=20121013134131" group-title="PORTUGAL",E! ENTERTAINMENT
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/120.ts
+#EXTINF:-1 tvg-id="CBS Reality" tvg-name="CBS REALITY" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/9/9a/CBS_reality_RGB.png/revision/latest?cb=20091107143920" group-title="PORTUGAL",CBS REALITY
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/121.ts
+#EXTINF:-1 tvg-id="MCS LifeStyle" tvg-name="MCS LIFESTYLE" tvg-logo="http://www.markify.com/images/ctm/originals/014637953.JPG" group-title="PORTUGAL",MCS LIFESTYLE
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/122.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://static1.squarespace.com/static/579e6976e58c625407374a01/579e7a538419c2591c5dbc73/579e7a6dd1758eb537b14867/1471384606312/tlc_logo.png?format=1000w" group-title="PORTUGAL",TLC
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/123.ts
+#EXTINF:-1 tvg-id="CANCAONOVA" tvg-name="CANÇAO NOVA" tvg-logo="http://3.bp.blogspot.com/-bKaGPzHjo_4/T_Lxx5e2vgI/AAAAAAAAAMo/mQ2TRVW2jgg/s600/V__GC_imagens_logo.png" group-title="PORTUGAL",CANÇAO NOVA
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/124.ts
+#EXTINF:-1 tvg-id="BLOOM" tvg-name="BLOOMBERG" tvg-logo="https://www.thelogodb.com/images/media/logo/rttwwr1434057549.png/medium" group-title="PORTUGAL",BLOOMBERG
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/125.ts
+#EXTINF:-1 tvg-id="" tvg-name="★●• INTERNACIONAIS ●•★" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/Information.png" group-title="PORTUGAL",★●• INTERNACIONAIS ●•★
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/138.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NOW" tvg-logo="" group-title="PORTUGAL",GLOBO NOW
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/13726.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO PREMIUM" tvg-logo="http://img.pai.pt/mysite/media/58/49/8/ef54e555-60c9-47e3-b666-37fa6aec40b7_LARGE.png" group-title="PORTUGAL",GLOBO PREMIUM
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/139.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO PORTUGAL" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/a/a7/Globo-tv-internacional.png/revision/latest?cb=20140518171742" group-title="PORTUGAL",GLOBO PORTUGAL
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/141.ts
+#EXTINF:-1 tvg-id="TV RECORD HD" tvg-name="TV RECORD HD" tvg-logo="http://3.bp.blogspot.com/-7LbdShGEuwk/VmbbgTjmO2I/AAAAAAAABpk/vFCW7XlKgPw/s1600/RECORD.png" group-title="PORTUGAL",TV RECORD HD
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/140.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS" tvg-logo="https://2.bp.blogspot.com/-HwsE7pZNxBE/V7KCLUDadkI/AAAAAAAAvbQ/NvpgM-7Ww0ErzQ0VMR8L8cqifB_AYLmMwCLcB/s640/recordnews.png" group-title="PORTUGAL",RECORD NEWS
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/145.ts
+#EXTINF:-1 tvg-id="REGIOES TV" tvg-name="REGIOES TV" tvg-logo="http://www.rtv.com.pt/images/logo_rtv_sobre.png" group-title="PORTUGAL",REGIOES TV
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/11631.ts
+#EXTINF:-1 tvg-id="RTPM" tvg-name="RTP MEMORIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/6/62/20160416132639!Rtpmemoria.png" group-title="PORTUGAL",RTP MEMORIA
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/146.ts
+#EXTINF:-1 tvg-id="RTPMAD" tvg-name="RTP MADEIRA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Rtp_madeira.png" group-title="PORTUGAL",RTP MADEIRA
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/147.ts
+#EXTINF:-1 tvg-id="RTPA" tvg-name="RTP AFRICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/RTP_%C3%81frica_2016_(Reduced_Version%3D.svg/1137px-RTP_%C3%81frica_2016_(Reduced_Version%3D.svg.png" group-title="PORTUGAL",RTP AFRICA
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/148.ts
+#EXTINF:-1 tvg-id="RTPACO" tvg-name="RTP ACORES" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rdpA%C3%A7ores_01.jpg" group-title="PORTUGAL",RTP ACORES
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/149.ts
+#EXTINF:-1 tvg-id="TVE 24 HORAS" tvg-name="TVE INTERNACIONAL" tvg-logo="http://4.bp.blogspot.com/_q01LKHssZCc/TUCEojmzDQI/AAAAAAAAIL8/XmKVubD2B7Y/s400/702px-Logo_TVE-Internacional.svg.png" group-title="PORTUGAL",TVE INTERNACIONAL
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/150.ts
+#EXTINF:-1 tvg-id="TVE24" tvg-name="TVE 24 HORAS" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/7/7c/TVE_24H.svg/revision/latest?cb=20100617134421" group-title="PORTUGAL",TVE 24 HORAS
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/151.ts
+#EXTINF:-1 tvg-id="TV Galicia" tvg-name="TV GALICIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Television_de_Galicia.svg/1024px-Television_de_Galicia.svg.png" group-title="PORTUGAL",TV GALICIA
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/152.ts
+#EXTINF:-1 tvg-id="A&E" tvg-name="AE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1000px-A%26E_Network_logo.svg.png" group-title="PORTUGAL",AE
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/154.ts
+#EXTINF:-1 tvg-id="" tvg-name="★●•★•●VOD KIDS●•★●•★" tvg-logo="" group-title="",★●•★•●VOD KIDS●•★●•★
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/303.ts
+#EXTINF:-1 tvg-id="" tvg-name="Maya the Bee: The Honey Games" tvg-logo="http://perolabranca.dynu.net:8000/images/aBfeHekIIjC4mFlark5MWJWDyZn_small.jpg" group-title="VOD: INFANTIL",Maya the Bee: The Honey Games
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/12301.avi
+#EXTINF:-1 tvg-id="" tvg-name="Peter Rabbit" tvg-logo="http://perolabranca.dynu.net:8000/images/2yjSvEDuM3rLDng40erLsWkQRfn_small.jpg" group-title="VOD: INFANTIL",Peter Rabbit
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/10787.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman Ninja" tvg-logo="http://perolabranca.dynu.net:8000/images/d5gZEW1npI2DNE5G00LvPDDICnt_small.jpg" group-title="VOD: INFANTIL",Batman Ninja
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/10788.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Condorito: The Movie" tvg-logo="http://perolabranca.dynu.net:8000/images/5Vt2k8e7yfQHtUPBuYols3TmY1Q_small.jpg" group-title="VOD: INFANTIL",Condorito: The Movie
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/10789.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I Kill Giants 2018" tvg-logo="https://ia.media-imdb.com/images/M/MV5BMjM1MTc3ODcwMV5BMl5BanBnXkFtZTgwNTU2MjA4NDM@._V1_SY1000_SX675_AL_.jpg" group-title="VOD: ACCAO",I Kill Giants 2018
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/10442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Woody Woodpecker" tvg-logo="http://perolabranca.dynu.net:8000/images/4YrNey4hRmdkvCj54vBymL0Ys1G_small.jpg" group-title="VOD: INFANTIL",Woody Woodpecker
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9765.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda de Despereaux" tvg-logo="http://perolabranca.dynu.net:8000/images/8Nge4rXAQzU5w9U8OvnXuuJltL9_small.jpg" group-title="VOD: INFANTIL",A Lenda de Despereaux
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9754.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Hundred and One Dalmatians" tvg-logo="http://perolabranca.dynu.net:8000/images/vo5j5OZIdnfMIZSkVfSvh8cJUU_small.jpg" group-title="VOD: INFANTIL",One Hundred and One Dalmatians
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9830.avi
+#EXTINF:-1 tvg-id="" tvg-name="Beauty and the Beast" tvg-logo="http://perolabranca.dynu.net:8000/images/tWqifoYuwLETmmasnGHO7xBjEtt_small.jpg" group-title="VOD: INFANTIL",Beauty and the Beast
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9828.avi
+#EXTINF:-1 tvg-id="" tvg-name="Lady and the Tramp" tvg-logo="http://perolabranca.dynu.net:8000/images/AqQpqEn33UYExlAoWA02Hizb2lc_small.jpg" group-title="VOD: INFANTIL",Lady and the Tramp
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9827.avi
+#EXTINF:-1 tvg-id="" tvg-name="Mariah Carey's All I Want for Christmas Is You" tvg-logo="http://perolabranca.dynu.net:8000/images/5jv1ZhB4H5SdlG9Q1dEL8WSIIGq_small.jpg" group-title="VOD: INFANTIL",Mariah Carey's All I Want for Christmas Is You
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9824.avi
+#EXTINF:-1 tvg-id="" tvg-name="The Aristocats" tvg-logo="http://perolabranca.dynu.net:8000/images/3LudCahifOrueMklYBxAXY2wpBg_small.jpg" group-title="VOD: INFANTIL",The Aristocats
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9823.avi
+#EXTINF:-1 tvg-id="" tvg-name="Gato Das Botas: Os Tres Diablos" tvg-logo="http://1.bp.blogspot.com/-69vXE7GK4AM/T9x1LkiHIzI/AAAAAAAAA5g/hOB43bVmd-Y/s1600/Puss-In-Boots-The-Three-Diablos-2012-DVDRip-XviD-iGNiTiON.jpeg" group-title="VOD: INFANTIL",Gato Das Botas: Os Tres Diablos
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9832.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Puss in Book: Trapped in an Epic Tale" tvg-logo="http://perolabranca.dynu.net:8000/images/sxqByjRM9SQ8SOO18IrAwjynJ62_small.jpg" group-title="VOD: INFANTIL",Puss in Book: Trapped in an Epic Tale
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9807.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cars 2" tvg-logo="http://perolabranca.dynu.net:8000/images/AblhtULOVtrkSnFxRPQ8gBemxw9_small.jpg" group-title="VOD: INFANTIL",Cars 2
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9835.avi
+#EXTINF:-1 tvg-id="" tvg-name="Cars 3" tvg-logo="http://perolabranca.dynu.net:8000/images/fyy1nDC8wm553FCiBDojkJmKLCs_small.jpg" group-title="VOD: INFANTIL",Cars 3
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9836.avi
+#EXTINF:-1 tvg-id="" tvg-name="Cinderela Baiana" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51W1iz-4TuL._SX352_BO1,204,203,200_.jpg" group-title="VOD: INFANTIL",Cinderela Baiana
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9822.avi
+#EXTINF:-1 tvg-id="" tvg-name="Mickey's Christmas Carol" tvg-logo="http://perolabranca.dynu.net:8000/images/b5bOnImybMdWNA415PXFjMWlsi7_small.jpg" group-title="VOD: INFANTIL",Mickey's Christmas Carol
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9833.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paddington 2" tvg-logo="http://perolabranca.dynu.net:8000/images/zuXMvSQq9F7H29qzuUm0qyUqw6m_small.jpg" group-title="VOD: INFANTIL",Paddington 2
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smurfs: The Lost Village" tvg-logo="http://perolabranca.dynu.net:8000/images/diYAZ6CKUuRAqLYMB2AyVutEFm0_small.jpg" group-title="VOD: INFANTIL",Smurfs: The Lost Village
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9818.avi
+#EXTINF:-1 tvg-id="" tvg-name="Tad the Lost Explorer and the Secret of King Midas" tvg-logo="http://perolabranca.dynu.net:8000/images/7WtFoWtGp45PLNmajM8iGtjAA7B_small.jpg" group-title="VOD: INFANTIL",Tad the Lost Explorer and the Secret of King Midas
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9817.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Boss Baby" tvg-logo="http://perolabranca.dynu.net:8000/images/unPB1iyEeTBcKiLg8W083rlViFH_small.jpg" group-title="VOD: INFANTIL",The Boss Baby
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9816.avi
+#EXTINF:-1 tvg-id="" tvg-name="The Lego Ninjago Movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuWC8NXGjooaJFZTxpxotZ0AMlR.jpg" group-title="VOD: INFANTIL",The Lego Ninjago Movie
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9815.avi
+#EXTINF:-1 tvg-id="" tvg-name="Um Susto De Familia" tvg-logo="https://www.cm-trancoso.pt/wp-content/uploads/2017/11/Um-susto-de-familia.jpg" group-title="VOD: INFANTIL",Um Susto De Familia
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9808.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vaiana" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pzLi9hWlG0wPmyiY6loTYpUiWah.jpg" group-title="VOD: INFANTIL",Vaiana
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9837.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Star" tvg-logo="http://perolabranca.dynu.net:8000/images/zms2RpkqjAtCsbjndTG9gAGWvnx_small.jpg" group-title="VOD: INFANTIL",The Star
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9814.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tom and Jerry: Willy Wonka and the Chocolate Factory" tvg-logo="http://perolabranca.dynu.net:8000/images/vh5iYhj80l1inSdep61sF8g1S8m_small.jpg" group-title="VOD: INFANTIL",Tom and Jerry: Willy Wonka and the Chocolate Factory
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9813.avi
+#EXTINF:-1 tvg-id="" tvg-name="Trolls Holiday" tvg-logo="http://perolabranca.dynu.net:8000/images/ioEv9lRn2IXIu0Dbfo9Qyo2IKhD_small.jpg" group-title="VOD: INFANTIL",Trolls Holiday
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9834.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coco" tvg-logo="http://perolabranca.dynu.net:8000/images/eKi8dIrr8voobbaGzDpe8w0PVbC_small.jpg" group-title="VOD: INFANTIL",Coco
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9821.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dofus - Book I: Julith" tvg-logo="http://perolabranca.dynu.net:8000/images/3UyqPwRJbjlI7pt62XHC6lh7a1g_small.jpg" group-title="VOD: INFANTIL",Dofus - Book I: Julith
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9820.avi
+#EXTINF:-1 tvg-id="" tvg-name="Elena E O Segredo De Avalor" tvg-logo="http://statics.livrariacultura.net.br/products/capas_lg/582/46552582.jpg" group-title="VOD: INFANTIL",Elena E O Segredo De Avalor
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9819.avi
+#EXTINF:-1 tvg-id="" tvg-name="Ferdinand" tvg-logo="http://perolabranca.dynu.net:8000/images/rMm94JsRfcOPiPVsTRcBiiVBOhz_small.jpg" group-title="VOD: INFANTIL",Ferdinand
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9831.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ice Age: The Great Egg-Scapade" tvg-logo="http://perolabranca.dynu.net:8000/images/hhKix0CkCJwtNsCkJnrCdGV7oxn_small.jpg" group-title="VOD: INFANTIL",Ice Age: The Great Egg-Scapade
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9825.avi
+#EXTINF:-1 tvg-id="" tvg-name="★●•★VOD PORTUGUES ★●•★" tvg-logo="" group-title="",★●•★VOD PORTUGUES ★●•★
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/194.ts
+#EXTINF:-1 tvg-id="" tvg-name="Solo: A Star Wars Story" tvg-logo="http://perolabranca.dynu.net:8000/images/4oD6VEccFkorEBTEDXtpLAaz0Rl_small.jpg" group-title="VOD: ACCAO",Solo: A Star Wars Story
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/13844.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Skyscraper" tvg-logo="http://perolabranca.dynu.net:8000/images/5LYSsOPzuP13201qSzMjNxi8FxN_small.jpg" group-title="VOD: ACCAO",Skyscraper
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/13724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Reprisal" tvg-logo="http://perolabranca.dynu.net:8000/images/qBsQUK5QSeZjRPLFUVgSGHxj2PI_small.jpg" group-title="VOD: ACCAO",Reprisal
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/13725.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Jurassic Games" tvg-logo="http://perolabranca.dynu.net:8000/images/nfenHmVDk50m1b7onVyFbVJMWvJ_small.jpg" group-title="VOD: ACCAO",The Jurassic Games
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/13727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Row" tvg-logo="http://perolabranca.dynu.net:8000/images/xR2PZ92HTZDFuEpxePJhf0WBCyJ_small.jpg" group-title="VOD: TERROR",The Row
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/13326.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ocean's Eight" tvg-logo="http://perolabranca.dynu.net:8000/images/MvYpKlpFukTivnlBhizGbkAe3v_small.jpg" group-title="VOD: ACCAO",Ocean's Eight
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/13321.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Taxi 5 PT" tvg-logo="http://perolabranca.dynu.net:8000/images/lXeSraLgsLaeXRg6vEHv4tBrXxc_small.jpg" group-title="VOD: ACCAO",Taxi 5 PT
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/13138.avi
+#EXTINF:-1 tvg-id="" tvg-name="Anonymous 616" tvg-logo="http://perolabranca.dynu.net:8000/images/fek93Bx15t59LlAkDqqnHmwveBI_small.jpg" group-title="VOD: ACCAO",Anonymous 616
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/12406.avi
+#EXTINF:-1 tvg-id="" tvg-name="Breaking In" tvg-logo="http://perolabranca.dynu.net:8000/images/bKH7H4f5LPBQ5KOmHPcYtxCo7Od_small.jpg" group-title="VOD: ACCAO",Breaking In
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/12305.avi
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic World: Fallen Kingdom" tvg-logo="http://perolabranca.dynu.net:8000/images/c9XxwwhPHdaImA2f1WEfEsbhaFB_small.jpg" group-title="VOD: ACCAO",Jurassic World: Fallen Kingdom
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/12304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deadpool 2" tvg-logo="http://perolabranca.dynu.net:8000/images/to0spRl1CMDvyUbOnbb4fTk3VAd_small.jpg" group-title="VOD: ACCAO",Deadpool 2
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/12303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tully" tvg-logo="http://perolabranca.dynu.net:8000/images/wDI4YXBXolMYi15Qx2kClvdSERM_small.jpg" group-title="VOD: COMEDIA",Tully
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/12300.avi
+#EXTINF:-1 tvg-id="" tvg-name="The Rider" tvg-logo="http://perolabranca.dynu.net:8000/images/gpaT0nA7pLPAmXYGra6sUS95hFB_small.jpg" group-title="VOD: BIOGRAPHY / DRAMA",The Rider
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/12299.avi
+#EXTINF:-1 tvg-id="" tvg-name="Hot Summer Nights" tvg-logo="http://perolabranca.dynu.net:8000/images/gsWdYsXkpJx2CYkveEw779O5eMg_small.jpg" group-title="VOD: BIOGRAPHY / DRAMA",Hot Summer Nights
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/12289.avi
+#EXTINF:-1 tvg-id="" tvg-name="Blue World Order" tvg-logo="http://perolabranca.dynu.net:8000/images/oxZ12wbIWJDAvHUYELAHKoDHEFc_small.jpg" group-title="VOD: ACCAO",Blue World Order
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/12288.avi
+#EXTINF:-1 tvg-id="" tvg-name="A Wrinkle in Time" tvg-logo="http://perolabranca.dynu.net:8000/images/yAcb58vipewa1BfNit2RjE6boXA_small.jpg" group-title="VOD: ACCAO",A Wrinkle in Time
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/12068.avi
+#EXTINF:-1 tvg-id="" tvg-name="Higher Power" tvg-logo="http://perolabranca.dynu.net:8000/images/cplMeBlGdkpDzypHRKZ64BrpLoL_small.jpg" group-title="VOD: ACCAO",Higher Power
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/11641.mp4
+#EXTINF:-1 tvg-id="" tvg-name="211" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/raomiLDo4NQVEqsavlh7jgRnJOb.jpg" group-title="VOD: ACCAO",211
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/11639.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dirt" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjczZTI5YjctYjExNi00NTZmLTliN2ItNzc5Y2U5MjVlODIyXkEyXkFqcGdeQXVyNzkwMjM4ODQ@._V1_.jpg" group-title="VOD: ACCAO",Dirt
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/11638.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Water" tvg-logo="http://perolabranca.dynu.net:8000/images/tIcZAB5AmRN8fIDXfDZ2aUok9qa_small.jpg" group-title="VOD: ACCAO",Black Water
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/11630.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Red Sparrow" tvg-logo="http://perolabranca.dynu.net:8000/images/vLCogyfQGxVLDC1gqUdNAIkc29L_small.jpg" group-title="VOD: TERROR",Red Sparrow
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/11629.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tomb Raider" tvg-logo="http://perolabranca.dynu.net:8000/images/ePyN2nX9t8SOl70eRW47Q29zUFO_small.jpg" group-title="VOD: ACCAO",Tomb Raider
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/11628.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Daphne e Velma" tvg-logo="http://perolabranca.dynu.net:8000/images/zG2DHbo2GNxSmcFWqGkAPgS6hC8_small.jpg" group-title="VOD: COMEDIA",Daphne e Velma
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/11563.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corbin Nash" tvg-logo="http://perolabranca.dynu.net:8000/images/2B5LnI7tytfKk7SnHCyFTVkBFWy_small.jpg" group-title="VOD: ACCAO",Corbin Nash
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/11562.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pacific Rim: Uprising" tvg-logo="http://perolabranca.dynu.net:8000/images/v5HlmJK9bdeHxN2QhaFP1ivjX3U_small.jpg" group-title="VOD: ACCAO",Pacific Rim: Uprising
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/11252.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Revenge 2017" tvg-logo="http://perolabranca.dynu.net:8000/images/aMv5ILxjzA9S930eLImSjfecETH_small.jpg" group-title="VOD: ACCAO",Revenge 2017
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/11090.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Kissing Booth" tvg-logo="http://perolabranca.dynu.net:8000/images/67loVKGh0DrW5HLwv9ZZ0VTytNA_small.jpg" group-title="VOD: COMEDIA",The Kissing Booth
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/11088.mp4
+#EXTINF:-1 tvg-id="" tvg-name="12 Strong" tvg-logo="http://perolabranca.dynu.net:8000/images/j18021qCeRi3yUBtqd2UFj1c0RQ_small.jpg" group-title="VOD: ACCAO",12 Strong
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/11085.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Den of Thieves" tvg-logo="http://perolabranca.dynu.net:8000/images/AfybH6GbGFw1F9bcETe2yu25mIE_small.jpg" group-title="VOD: ACCAO",Den of Thieves
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/11084.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The 15:17 to Paris" tvg-logo="http://perolabranca.dynu.net:8000/images/qxJQ0VBCuJkJhJmuWzxI408ngwd_small.jpg" group-title="VOD: TERROR",The 15:17 to Paris
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/10877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Most Likely to Murder" tvg-logo="http://perolabranca.dynu.net:8000/images/uozkm1AvcEo8ZKU3UKam06YWmbc_small.jpg" group-title="VOD: COMEDIA",Most Likely to Murder
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/10878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bleeding Steel" tvg-logo="http://perolabranca.dynu.net:8000/images/uaZFzwd87Wp2IxPLkDECXDc6Yil_small.jpg" group-title="VOD: ACCAO",Bleeding Steel
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/10879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Genesis" tvg-logo="https://ia.media-imdb.com/images/M/MV5BZTczNGE3NTctMWIwMy00NjgxLTk3NmItYWQ1Yzg0YjVlMTViXkEyXkFqcGdeQXVyNDgyMjg4Ng@@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="VOD: ACCAO",Genesis
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/10880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Price" tvg-logo="https://ia.media-imdb.com/images/M/MV5BY2M5MjI1YjctNWI5Yi00MjVhLTgzNzYtNjg0OTNkNTEzZTY5XkEyXkFqcGdeQXVyMDY5NzA2Ng@@._V1_SY1000_CR0,0,666,1000_AL_.jpg" group-title="VOD: BIOGRAPHY / DRAMA",The Price
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/10790.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Girl Who Invented Kissing" tvg-logo="http://perolabranca.dynu.net:8000/images/n1e9CwH1aRBljIlyj6x3wPbn6gJ_small.jpg" group-title="VOD: ROMANCE",The Girl Who Invented Kissing
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/10859.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kodachrome" tvg-logo="http://perolabranca.dynu.net:8000/images/mseyc8v3UD1DhaZ3kSdXs4Dj9Xf_small.jpg" group-title="VOD: COMEDIA",Kodachrome
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/10860.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zombiology: Enjoy Yourself Tonight" tvg-logo="http://perolabranca.dynu.net:8000/images/aS4UqKiuFKfIQPQUGxOGk3KQucf_small.jpg" group-title="VOD: ACCAO",Zombiology: Enjoy Yourself Tonight
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/10861.mp4
+#EXTINF:-1 tvg-id="" tvg-name="In the Fade" tvg-logo="http://perolabranca.dynu.net:8000/images/qaLbKxjHaOkY7lT6jmsS1lsRocy_small.jpg" group-title="VOD: BIOGRAPHY / DRAMA",In the Fade
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/10862.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Hurricane Heist" tvg-logo="http://perolabranca.dynu.net:8000/images/wh1f7peigW0qUXXwynwVAt7axZd_small.jpg" group-title="VOD: ACCAO",The Hurricane Heist
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/10744.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avicii: True Stories" tvg-logo="http://perolabranca.dynu.net:8000/images/uMeiVRDUS25AHPWc782InYs8Yuw_small.jpg" group-title="VOD: BIOGRAPHY / DRAMA",Avicii: True Stories
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/10673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Getaway Plan" tvg-logo="http://perolabranca.dynu.net:8000/images/y94HULDnIszOyMPM1fJzgkFYtEn_small.jpg" group-title="VOD: ACCAO",Getaway Plan
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/10672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Boone The Bounty Hunter" tvg-logo="http://perolabranca.dynu.net:8000/images/akqKTfd6EbUQamcvVrJS1CxOdUH_small.jpg" group-title="VOD: ACCAO",Boone The Bounty Hunter
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/10671.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Debt Collector" tvg-logo="http://perolabranca.dynu.net:8000/images/5XyuUPoIeEf3guWLQW9lATON84v_small.jpg" group-title="VOD: ACCAO",The Debt Collector
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/10670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deep Blue Sea 2" tvg-logo="http://perolabranca.dynu.net:8000/images/xqjAHXMJLORx9vVsCTJ6ZPJcr3D_small.jpg" group-title="VOD: TERROR",Deep Blue Sea 2
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/10669.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fifty Shades Freed" tvg-logo="http://perolabranca.dynu.net:8000/images/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8_small.jpg" group-title="VOD: ROMANCE",Fifty Shades Freed
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/10584.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marie Curie" tvg-logo="http://perolabranca.dynu.net:8000/images/wA2IsvqX3VoLF6rymPWk95gaBXB_small.jpg" group-title="VOD: ROMANCE",Marie Curie
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/10491.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Commuter 2018" tvg-logo="https://ia.media-imdb.com/images/M/MV5BMTc0NDg1MjI4OV5BMl5BanBnXkFtZTgwMDIwMTEwNDI@._V1_SY1000_CR0,0,647,1000_AL_.jpg" group-title="VOD: ACCAO",The Commuter 2018
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/10444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Live Or Die In La Honda 2017" tvg-logo="https://ia.media-imdb.com/images/M/MV5BMjA2YTdlYjItMWUwYy00MzdkLWE5ODUtMzJjNDNlYjIyMDA4XkEyXkFqcGdeQXVyMjAyMzYxMDE@._V1_SY1000_CR0,0,683,1000_AL_.jpg" group-title="VOD: ACCAO",Live Or Die In La Honda 2017
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/10403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roxanne Roxanne 2017" tvg-logo="https://ia.media-imdb.com/images/M/MV5BNjg5YTZmOTMtZTcyNS00NWRkLTlmNjItMGJjYTdlZTBiODBhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="VOD: BIOGRAPHY / DRAMA",Roxanne Roxanne 2017
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/10400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Game Over Man 2018" tvg-logo="https://ia.media-imdb.com/images/M/MV5BMTUxNjI4MDU2OF5BMl5BanBnXkFtZTgwMDAzMzA1NDM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="VOD: ACCAO",Game Over Man 2018
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/10402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paradox (2018)" tvg-logo="https://ia.media-imdb.com/images/M/MV5BMTk5NzkwODIyMF5BMl5BanBnXkFtZTgwMTk2NzAyNTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="VOD: ROMANCE",Paradox (2018)
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/10401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beast Of Burden 2018" tvg-logo="https://ia.media-imdb.com/images/M/MV5BMjEyNTM3MDQ2NV5BMl5BanBnXkFtZTgwMDI5Nzk1NDM@._V1_SY1000_CR0,0,673,1000_AL_.jpg" group-title="VOD: ACCAO",Beast Of Burden 2018
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/10399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Forgiven (2017)" tvg-logo="https://ia.media-imdb.com/images/M/MV5BMTZmNzljM2MtNTFlNS00MjU5LTg4OTAtZDVlMTkxNWI2MTMzXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SY1000_CR0,0,704,1000_AL_.jpg" group-title="VOD: TERROR",The Forgiven (2017)
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/10395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rendel 2017" tvg-logo="https://ia.media-imdb.com/images/M/MV5BY2M5ZWZhNGQtNGRiMi00OTMwLTljZWEtYWEwYzAzYTg0ZWU4XkEyXkFqcGdeQXVyNTE2ODk5MjU@._V1_SY1000_CR0,0,714,1000_AL_.jpg" group-title="VOD: ACCAO",Rendel 2017
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/10396.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Just Getting Started 2017" tvg-logo="https://ia.media-imdb.com/images/M/MV5BMzk0NDdjNWEtMDVkMC00ODdiLTgyMmYtOWM0ZDRjOTU4MjJlXkEyXkFqcGdeQXVyNjM2MDMxMDk@._V1_SY1000_SX675_AL_.jpg" group-title="VOD: COMEDIA",Just Getting Started 2017
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/10398.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Prodigy 2017" tvg-logo="https://ia.media-imdb.com/images/M/MV5BODhkMzE3MDAtM2ExYS00YmNlLWFiMmUtNTAxOTQ0ODRmMjEzXkEyXkFqcGdeQXVyNDYyNzkxMQ@@._V1_.jpg" group-title="VOD: BIOGRAPHY / DRAMA",Prodigy 2017
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/10397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Father Figures 2018" tvg-logo="https://ia.media-imdb.com/images/M/MV5BMjA3MDQ4MDI1M15BMl5BanBnXkFtZTgwMDYxMjcxNDM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="VOD: COMEDIA",Father Figures 2018
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/10393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Death Race 4 Beyond Anarchy 2018" tvg-logo="https://ia.media-imdb.com/images/M/MV5BMDE1NDAxZjktYWU0MS00Yjc1LThkN2QtYjg2ZWFkMWZhNjE3XkEyXkFqcGdeQXVyNDA4OTExNDU@._V1_.jpg" group-title="VOD: ACCAO",Death Race 4 Beyond Anarchy 2018
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/10392.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Insidious The Last Key 2018" tvg-logo="https://ia.media-imdb.com/images/M/MV5BMTUxODU0NjQ2Nl5BMl5BanBnXkFtZTgwMTc4NDQ0MzI@._V1_SY1000_CR0,0,631,1000_AL_.jpg" group-title="VOD: TERROR",Insidious The Last Key 2018
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/10391.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Street Dance 2 (2012)" tvg-logo="https://media.timeout.com/images/100449507/image.jpg" group-title="VOD: ROMANCE",Street Dance 2 (2012)
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/10390.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Take Your Pills 2018" tvg-logo="https://ia.media-imdb.com/images/M/MV5BNWQ5NDYxNjYtODc4Ni00NmIyLWEyMGYtNGM0N2ZmYjgzYTliXkEyXkFqcGdeQXVyNTg0MzU3NjM@._V1_.jpg" group-title="VOD: BIOGRAPHY / DRAMA",Take Your Pills 2018
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/10389.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1 Mile To You 2017" tvg-logo="https://ia.media-imdb.com/images/M/MV5BMjQ4NDE0MzQ3Ml5BMl5BanBnXkFtZTgwMTY4MzY1MTI@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="VOD: ROMANCE",1 Mile To You 2017
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/10387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Benji 2018" tvg-logo="https://ia.media-imdb.com/images/M/MV5BMTc5MzIyMDk5Ml5BMl5BanBnXkFtZTgwMzA5MTA4NDM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="VOD: BIOGRAPHY / DRAMA",Benji 2018
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/10386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bent 2018" tvg-logo="https://ia.media-imdb.com/images/M/MV5BNDkwZDlhNzAtZTg5ZS00NGI5LThhNjktZjMwYjQ0NmMwNTg2XkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="VOD: ACCAO",Bent 2018
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/10385.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cops And Robbers 2017" tvg-logo="https://ia.media-imdb.com/images/M/MV5BZGEwYjIxMDAtZTUyNi00YTgxLWE5NGMtN2M0ODhiYzExOTZiXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_SY1000_SX750_AL_.jpg" group-title="VOD: ACCAO",Cops And Robbers 2017
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/10384.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S W A T : Under Siege" tvg-logo="https://ia.media-imdb.com/images/M/MV5BZTFjMjZkNjEtZmY4OC00YTk1LWFkYzQtY2RiNjQxNDA1ZWQ2XkEyXkFqcGdeQXVyNDA4OTExNDU@._V1_.jpg" group-title="VOD: ACCAO",S W A T : Under Siege
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/10383.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pitch Perfect 3" tvg-logo="http://perolabranca.dynu.net:8000/images/fchHLsLjFvzAFSQykiMwdF1051_small.jpg" group-title="VOD: COMEDIA",Pitch Perfect 3
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/10285.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars: The Last Jedi" tvg-logo="http://perolabranca.dynu.net:8000/images/kOVEVeg59E0wsnXmF9nrh6OmWII_small.jpg" group-title="VOD: ACCAO",Star Wars: The Last Jedi
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/10000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Annihilation" tvg-logo="http://perolabranca.dynu.net:8000/images/d3qcpfNwbAMCNqWDHzPQsUYiUgS_small.jpg" group-title="VOD: ACCAO",Annihilation
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jumanji: Welcome to the Jungle" tvg-logo="http://perolabranca.dynu.net:8000/images/bXrZ5iHBEjH7WMidbUDQ0U2xbmr_small.jpg" group-title="VOD: ACCAO",Jumanji: Welcome to the Jungle
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9839.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jungle" tvg-logo="http://perolabranca.dynu.net:8000/images/tDgxknTVwrScxpCYyGUjXSn5NRk_small.jpg" group-title="VOD: ACCAO",Jungle
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9708.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1922" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4FQOiSRhTLWulHl5Vpg37FMArH.jpg" group-title="VOD: TERROR",1922
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9747.mp4
+#EXTINF:-1 tvg-id="" tvg-name="24 Hours to Live" tvg-logo="http://perolabranca.dynu.net:8000/images/w0MXP33x1bq48TDC7IaNqQ8nxcc_small.jpg" group-title="VOD: ACCAO",24 Hours to Live
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9746.mp4
+#EXTINF:-1 tvg-id="" tvg-name="6 Days ." tvg-logo="http://perolabranca.dynu.net:8000/images/yRbC0uRj1RDmF0JLon83il2dkR0_small.jpg" group-title="VOD: ACCAO",6 Days .
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9745.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Christmas Prince" tvg-logo="http://perolabranca.dynu.net:8000/images/z3jfaahNCSUytgAQhavUmoA1ab6_small.jpg" group-title="VOD: COMEDIA",A Christmas Prince
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9744.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fun Mom Dinner 2017" tvg-logo="http://perolabranca.dynu.net:8000/images/5829040.jpg" group-title="VOD: COMEDIA",Fun Mom Dinner 2017
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9718.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ingrid Goes West 2017" tvg-logo="http://perolabranca.dynu.net:8000/images/5962210.jpg" group-title="VOD: COMEDIA",Ingrid Goes West 2017
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9711.mp4
+#EXTINF:-1 tvg-id="" tvg-name="It (2017)" tvg-logo="http://perolabranca.dynu.net:8000/images/1396484.jpg" group-title="VOD: TERROR",It (2017)
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9710.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jim And Andy The Great Beyond 2017" tvg-logo="http://perolabranca.dynu.net:8000/images/7214762.jpg" group-title="VOD: COMEDIA",Jim And Andy The Great Beyond 2017
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9709.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Justice League" tvg-logo="http://perolabranca.dynu.net:8000/images/eifGNCSDuxJeS1loAXil5bIGgvC_small.jpg" group-title="VOD: ACCAO",Justice League
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9801.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kickboxer: Retaliation" tvg-logo="http://perolabranca.dynu.net:8000/images/oMWP4cAoy8WBauuKZAVTIfuY3Fw_small.jpg" group-title="VOD: ACCAO",Kickboxer: Retaliation
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9800.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kickboxer: Vengeance" tvg-logo="http://perolabranca.dynu.net:8000/images/fHwikdzHy8btv7Rn1eRGe9rvLVO_small.jpg" group-title="VOD: ACCAO",Kickboxer: Vengeance
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9799.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kill Order" tvg-logo="http://perolabranca.dynu.net:8000/images/7GsmOsf7M7jUhrav17l3Vx2ekIR_small.jpg" group-title="VOD: ACCAO",Kill Order
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9798.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Last Flag Flying" tvg-logo="http://perolabranca.dynu.net:8000/images/pizynKUzJ9YucGff1O1MYisY1WM_small.jpg" group-title="VOD: COMEDIA",Last Flag Flying
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9797.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Liberated: The New Sexual Revolution" tvg-logo="http://perolabranca.dynu.net:8000/images/kmsT3BEmUgZMvFBKYO69ajiDZJR_small.jpg" group-title="VOD: BIOGRAPHY / DRAMA",Liberated: The New Sexual Revolution
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9796.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Logan Lucky 2017" tvg-logo="http://perolabranca.dynu.net:8000/images/5439796.jpg" group-title="VOD: COMEDIA",Logan Lucky 2017
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9707.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lost In Paris 2016" tvg-logo="https://3.bp.blogspot.com/-pil57RzCkiA/WTi2Aj3Q3XI/AAAAAAAAPNY/k2AucKrRyKUFGZcbo-YdbdW9N2-RTIeOwCLcB/s1600/Perdidos-Em-Paris.jpg" group-title="VOD: COMEDIA",Lost In Paris 2016
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9795.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Fly" tvg-logo="http://perolabranca.dynu.net:8000/images/q49tjSe3O152t9QVwaradePGu7W_small.jpg" group-title="VOD: ACCAO",The Fly
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9706.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stronger Than The World: The Story of José Aldo" tvg-logo="http://perolabranca.dynu.net:8000/images/fNsC7or1mxloBJbevfSySbYYyt4_small.jpg" group-title="VOD: ACCAO",Stronger Than The World: The Story of José Aldo
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9705.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mayhem" tvg-logo="http://perolabranca.dynu.net:8000/images/fF5ULrCAQ8TULXyFGlPlQ2s3Jie_small.jpg" group-title="VOD: ACCAO",Mayhem
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9704.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mine" tvg-logo="http://perolabranca.dynu.net:8000/images/xfQV6nTH6zpvhmdcTOoBR2Q4Z2M_small.jpg" group-title="VOD: ACCAO",Mine
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9703.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Molly's Game" tvg-logo="http://perolabranca.dynu.net:8000/images/h9hUP5ZJGsjL2wbERrGlj4dMjZq_small.jpg" group-title="VOD: BIOGRAPHY / DRAMA",Molly's Game
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9794.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mom and Dad" tvg-logo="http://perolabranca.dynu.net:8000/images/fSaeahvo1GU7v4W6CX2y0j7fxMG_small.jpg" group-title="VOD: TERROR",Mom and Dad
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9793.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mother! (2017)" tvg-logo="http://perolabranca.dynu.net:8000/images/5109784.jpg" group-title="VOD: TERROR",Mother! (2017)
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9702.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter And The Deathly Hallows: Part 1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1odLP7rNKM2Do9UJOWp0sOkixHV.jpg" group-title="VOD: ACCAO",Harry Potter And The Deathly Hallows: Part 1
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter And The Deathly Hallows: Part 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AcWbIroasTR5a0w5GC1ZKmQVeWJ.jpg" group-title="VOD: ACCAO",Harry Potter And The Deathly Hallows: Part 2
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter And The Goblet Of Fire" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6ucb77yqay1r5CT2pY5nf2gPUR.jpg" group-title="VOD: ACCAO",Harry Potter And The Goblet Of Fire
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter And The Half-blood Prince" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5CF2fYxv4z2IpJ34QRUeSyAvZCO.jpg" group-title="VOD: ACCAO",Harry Potter And The Half-blood Prince
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter And The Order Of The Phoenix" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5nj32k5bS2c5rOx0D8GyWKXAtrg.jpg" group-title="VOD: ACCAO",Harry Potter And The Order Of The Phoenix
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter And The Prisoner Of Azkaban" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXRwkdgTCUhTqPBXgjsrvqZumav.jpg" group-title="VOD: ACCAO",Harry Potter And The Prisoner Of Azkaban
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="My Bakery In Brooklyn" tvg-logo="http://perolabranca.dynu.net:8000/images/4065212.jpg" group-title="VOD: COMEDIA",My Bakery In Brooklyn
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9701.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nails 2017" tvg-logo="http://perolabranca.dynu.net:8000/images/4695098.jpg" group-title="VOD: TERROR",Nails 2017
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Never Here 2017" tvg-logo="http://perolabranca.dynu.net:8000/images/5742374.jpg" group-title="VOD: TERROR",Never Here 2017
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Oceans Rising" tvg-logo="http://perolabranca.dynu.net:8000/images/2HbxuEVgQNh5vfQOhB6nifuByPs_small.jpg" group-title="VOD: ACCAO",Oceans Rising
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9792.mp4
+#EXTINF:-1 tvg-id="" tvg-name="On Body and Soul" tvg-logo="http://perolabranca.dynu.net:8000/images/uguWEoZelSSckxgiQctlkZ6gpfU_small.jpg" group-title="VOD: ROMANCE",On Body and Soul
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9791.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible" tvg-logo="http://perolabranca.dynu.net:8000/images/vmj2PzTLC6xJvshpq8SlaYE3gbd_small.jpg" group-title="VOD: ACCAO",Mission: Impossible
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible - Ghost Protocol" tvg-logo="http://perolabranca.dynu.net:8000/images/s58mMsgIVOFfoXPtwPWJ3hDYpXf_small.jpg" group-title="VOD: ACCAO",Mission: Impossible - Ghost Protocol
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9991.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible III" tvg-logo="http://perolabranca.dynu.net:8000/images/qjy8ABAbWooV4jLG6UjzDHlv4RB_small.jpg" group-title="VOD: ACCAO",Mission: Impossible III
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9990.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible - Rogue Nation" tvg-logo="http://perolabranca.dynu.net:8000/images/z2sJd1OvAGZLxgjBdSnQoLCfn3M_small.jpg" group-title="VOD: ACCAO",Mission: Impossible - Rogue Nation
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9989.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pirates Of The Caribbean: Dead Men Tell No Tales" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8zYVAvuPI3ImOkC1EsjDs7ilTk.jpg" group-title="VOD: ACCAO",Pirates Of The Caribbean: Dead Men Tell No Tales
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9988.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Patti Cakes 2017" tvg-logo="http://perolabranca.dynu.net:8000/images/6288250.jpg" group-title="VOD: BIOGRAPHY / DRAMA",Patti Cakes 2017
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="War for the Planet of the Apes" tvg-logo="http://perolabranca.dynu.net:8000/images/3vYhLLxrTtZLysXtIWktmd57Snv_small.jpg" group-title="VOD: ACCAO",War for the Planet of the Apes
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9697.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pottersville" tvg-logo="http://perolabranca.dynu.net:8000/images/zlQgswQ5GEklrbv8MkohQHyomZu_small.jpg" group-title="VOD: COMEDIA",Pottersville
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9789.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Psych The Movie 2017" tvg-logo="http://perolabranca.dynu.net:8000/images/6868216.jpg" group-title="VOD: COMEDIA",Psych The Movie 2017
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pwera Usog" tvg-logo="http://perolabranca.dynu.net:8000/images/rBpCUi6cbRpM6ytMawcevyb6Tkk_small.jpg" group-title="VOD: TERROR",Pwera Usog
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9787.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Red Dog: True Blue" tvg-logo="http://perolabranca.dynu.net:8000/images/1u65730HwpelalF3aJmX5BOJGPG_small.jpg" group-title="VOD: ACCAO",Red Dog: True Blue
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9695.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Regression" tvg-logo="http://perolabranca.dynu.net:8000/images/d1dtQQfJJWU31cGSFbfhyeLtsTm_small.jpg" group-title="VOD: ACCAO",Regression
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9755.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Renegades" tvg-logo="http://perolabranca.dynu.net:8000/images/hx4nxhesaagsvJNhRw2fTobg8o_small.jpg" group-title="VOD: ACCAO",Renegades
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9786.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Undercover Grandpa" tvg-logo="http://perolabranca.dynu.net:8000/images/qpKIZITtS9IselXnATtGUR6RJnP_small.jpg" group-title="VOD: ACCAO",Undercover Grandpa
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Van Wilder" tvg-logo="http://perolabranca.dynu.net:8000/images/0283111.jpg" group-title="VOD: ROMANCE",Van Wilder
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Virtual Revolution" tvg-logo="http://perolabranca.dynu.net:8000/images/lxB6QUCLcmAgdYbSVhpdKYbTPQA_small.jpg" group-title="VOD: ACCAO",Virtual Revolution
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wheelman" tvg-logo="http://perolabranca.dynu.net:8000/images/dsgHZDOfHwk1PCnF7Gki8uzOymf_small.jpg" group-title="VOD: ACCAO",Wheelman
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9674.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wheres The Money 2017" tvg-logo="http://perolabranca.dynu.net:8000/images/5716848.jpg" group-title="VOD: COMEDIA",Wheres The Money 2017
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wind River 2017" tvg-logo="http://perolabranca.dynu.net:8000/images/5362988.jpg" group-title="VOD: BIOGRAPHY / DRAMA",Wind River 2017
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wish Upon" tvg-logo="http://perolabranca.dynu.net:8000/images/u0vnocj57vJt5DHoBEqUOD1G4SU_small.jpg" group-title="VOD: TERROR",Wish Upon
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9758.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wolf Warrior 2" tvg-logo="http://perolabranca.dynu.net:8000/images/ophb3WpBZz5oNLoUbOTelvIzeku_small.jpg" group-title="VOD: ACCAO",Wolf Warrior 2
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9766.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wonder Women" tvg-logo="http://perolabranca.dynu.net:8000/images/0070926.jpg" group-title="VOD: TERROR",Wonder Women
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9671.mp4
+#EXTINF:-1 tvg-id="" tvg-name="xXx." tvg-logo="http://perolabranca.dynu.net:8000/images/fPHNTG1OXFBQ6aEVO7Lv8tSgfrY_small.jpg" group-title="VOD: ACCAO",xXx.
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rip Tide" tvg-logo="http://perolabranca.dynu.net:8000/images/zQZJPhjLGxQWdxDlrtgagUa4Fak_small.jpg" group-title="VOD: BIOGRAPHY / DRAMA",Rip Tide
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9785.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blade Runner" tvg-logo="http://perolabranca.dynu.net:8000/images/5ig0kdWz5kxR4PHjyCgyI5khCzd_small.jpg" group-title="VOD: ACCAO",Blade Runner
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9784.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Same Kind of Different as Me" tvg-logo="http://perolabranca.dynu.net:8000/images/bHh5W7YuMorc4orn8DQ6c8YEnBm_small.jpg" group-title="VOD: BIOGRAPHY / DRAMA",Same Kind of Different as Me
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9783.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Singularity" tvg-logo="http://perolabranca.dynu.net:8000/images/qsYiyjjJL1aKn5SnUXn85rLrT5U_small.jpg" group-title="VOD: ACCAO",Singularity
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9694.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Only the Brave PT" tvg-logo="http://perolabranca.dynu.net:8000/images/lC7WdUNLOJI3sllaDGNdFy2GT8g_small.jpg" group-title="VOD: ACCAO",Only the Brave PT
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9781.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Strange Weather" tvg-logo="http://perolabranca.dynu.net:8000/images/xnuYktP5s8sZ4IA3et9bCycbQUB_small.jpg" group-title="VOD: ACCAO",Strange Weather
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stronger 2017" tvg-logo="http://perolabranca.dynu.net:8000/images/3881784.jpg" group-title="VOD: BIOGRAPHY / DRAMA",Stronger 2017
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Thank You for Your Service" tvg-logo="http://perolabranca.dynu.net:8000/images/z8OKWw6DAZAOyz8F421euawr3Hs_small.jpg" group-title="VOD: BIOGRAPHY / DRAMA",Thank You for Your Service
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9780.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Adventurers" tvg-logo="http://perolabranca.dynu.net:8000/images/5Vml5t3V1mnRAPyduPFUc8ew8HN_small.jpg" group-title="VOD: ACCAO",The Adventurers
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9779.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Babysitter" tvg-logo="http://perolabranca.dynu.net:8000/images/86a7GRVRCwfl7wdI4QadyvKa6Zu_small.jpg" group-title="VOD: COMEDIA",The Babysitter
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9753.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Bling Ring" tvg-logo="http://perolabranca.dynu.net:8000/images/9Z2KAOP1X3ACE22moHu9QdYUK7U_small.jpg" group-title="VOD: BIOGRAPHY / DRAMA",The Bling Ring
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9752.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Crucifixion" tvg-logo="http://perolabranca.dynu.net:8000/images/aN1drk3BqIzCUICR436t3t0lq9H_small.jpg" group-title="VOD: TERROR",The Crucifixion
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9751.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Evil Within 2017" tvg-logo="http://perolabranca.dynu.net:8000/images/0339736.jpg" group-title="VOD: TERROR",The Evil Within 2017
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Foreigner pt" tvg-logo="http://perolabranca.dynu.net:8000/images/rwM4hzrmc5HiWfQD9ls9DL4QgGl_small.jpg" group-title="VOD: ACCAO",The Foreigner pt
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9778.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Girl Next Door" tvg-logo="http://perolabranca.dynu.net:8000/images/lWybRfPlUCKKOaYFSjY67pNhkxa_small.jpg" group-title="VOD: ROMANCE",The Girl Next Door
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9777.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Great Wall" tvg-logo="http://perolabranca.dynu.net:8000/images/p70dq1YxabemdZDm5K6Q8G10wSn_small.jpg" group-title="VOD: ACCAO",The Great Wall
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9750.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Humanity Bureau ." tvg-logo="http://perolabranca.dynu.net:8000/images/2qf4wJoaYAXwY0Lov4OfBhSGbTQ_small.jpg" group-title="VOD: ACCAO",The Humanity Bureau .
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9690.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Ice Cream Truck 2017" tvg-logo="http://perolabranca.dynu.net:8000/images/5280684.jpg" group-title="VOD: TERROR",The Ice Cream Truck 2017
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Journey Is The Destination 2016" tvg-logo="http://perolabranca.dynu.net:8000/images/3292080.jpg" group-title="VOD: BIOGRAPHY / DRAMA",The Journey Is The Destination 2016
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Legend Of 420 2017" tvg-logo="http://perolabranca.dynu.net:8000/images/7027566.jpg" group-title="VOD: COMEDIA",The Legend Of 420 2017
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Light of the Moon" tvg-logo="http://perolabranca.dynu.net:8000/images/hZPg0rY6R7yxWVCfUTztejex1qe_small.jpg" group-title="VOD: BIOGRAPHY / DRAMA",The Light of the Moon
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9776.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Marine 5: Battleground ." tvg-logo="http://perolabranca.dynu.net:8000/images/9dbZqft6gS34f4qVncU6APBAKWU_small.jpg" group-title="VOD: ACCAO",The Marine 5: Battleground .
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9749.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mountain Between Us" tvg-logo="http://perolabranca.dynu.net:8000/images/3XNfYTW4XGscI81nXMSWGsQ8cpu_small.jpg" group-title="VOD: ACCAO",The Mountain Between Us
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9686.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Nile Hilton Incident ." tvg-logo="http://perolabranca.dynu.net:8000/images/5q4rDRt2JAEtU5B3kwYlBLYjHLa_small.jpg" group-title="VOD: ACCAO",The Nile Hilton Incident .
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Only Living Boy In New York 2017" tvg-logo="http://perolabranca.dynu.net:8000/images/0460890.jpg" group-title="VOD: BIOGRAPHY / DRAMA",The Only Living Boy In New York 2017
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9684.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Open House pt" tvg-logo="http://perolabranca.dynu.net:8000/images/7JwdoLcbFWaeUBxKaoFulRVK8Ja_small.jpg" group-title="VOD: TERROR",The Open House pt
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9775.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Perks of Being a Wallflower" tvg-logo="http://perolabranca.dynu.net:8000/images/cyNQLnHnXZcTUDXVVSEYmquOTOI_small.jpg" group-title="VOD: ROMANCE",The Perks of Being a Wallflower
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9748.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Pirates of Somalia" tvg-logo="http://perolabranca.dynu.net:8000/images/a8dlDPwo9mnorurL6ukIpyHZZd7_small.jpg" group-title="VOD: BIOGRAPHY / DRAMA",The Pirates of Somalia
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Rendezvous" tvg-logo="http://perolabranca.dynu.net:8000/images/4oncj6iODho3l6OIdKmAVjEypKM_small.jpg" group-title="VOD: ACCAO",The Rendezvous
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9773.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Ritual" tvg-logo="http://perolabranca.dynu.net:8000/images/hHuJqzby593lmYmw1SzT0XYy99t_small.jpg" group-title="VOD: TERROR",The Ritual
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9772.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Sandman 2017" tvg-logo="http://perolabranca.dynu.net:8000/images/7369722.jpg" group-title="VOD: TERROR",The Sandman 2017
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Shape of Water pt" tvg-logo="http://perolabranca.dynu.net:8000/images/k4FwHlMhuRR5BISY2Gm2QZHlH5Q_small.jpg" group-title="VOD: BIOGRAPHY / DRAMA",The Shape of Water pt
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9771.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Shawshank Redemption 1994" tvg-logo="http://perolabranca.dynu.net:8000/images/0111161.jpg" group-title="VOD: BIOGRAPHY / DRAMA",The Shawshank Redemption 1994
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Strange Ones" tvg-logo="http://perolabranca.dynu.net:8000/images/39gn1Mr9PPMYo5Zul9l972ZBfKk_small.jpg" group-title="VOD: TERROR",The Strange Ones
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9770.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Wilde Wedding" tvg-logo="http://perolabranca.dynu.net:8000/images/wE9tcRTZ3OCTz2LjGaNxFHZnDLJ_small.jpg" group-title="VOD: COMEDIA",The Wilde Wedding
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9769.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Worthy 2016" tvg-logo="http://perolabranca.dynu.net:8000/images/4943218.jpg" group-title="VOD: BIOGRAPHY / DRAMA",The Worthy 2016
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9681.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tiger Zinda Hai" tvg-logo="http://perolabranca.dynu.net:8000/images/6EHnmwCtBhfOuoKQaHUSACV5UUJ_small.jpg" group-title="VOD: ACCAO",Tiger Zinda Hai
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9767.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tokyo Project 2017" tvg-logo="http://perolabranca.dynu.net:8000/images/5716624.jpg" group-title="VOD: BIOGRAPHY / DRAMA",Tokyo Project 2017
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Top Gun" tvg-logo="http://perolabranca.dynu.net:8000/images/orGXnBKfT41LxZhitLkXhqUfJJW_small.jpg" group-title="VOD: ACCAO",Top Gun
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Totem 2017" tvg-logo="http://perolabranca.dynu.net:8000/images/6791238.jpg" group-title="VOD: TERROR",Totem 2017
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Transformers: The Last Knight." tvg-logo="http://perolabranca.dynu.net:8000/images/s5HQf2Gb3lIO2cRcFwNL9sn1o1o_small.jpg" group-title="VOD: ACCAO",Transformers: The Last Knight.
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9760.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek" tvg-logo="http://perolabranca.dynu.net:8000/images/xPihqTMhCh6b8DHYzE61jrIiNMS_small.jpg" group-title="VOD: ACCAO",Star Trek
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9987.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek Beyond" tvg-logo="http://perolabranca.dynu.net:8000/images/mLrQMqyZgLeP8FrT5LCobKAiqmK_small.jpg" group-title="VOD: ACCAO",Star Trek Beyond
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9986.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek Into Darkness" tvg-logo="http://perolabranca.dynu.net:8000/images/41mhrXASAW3sdn7LBWF49uCX0xi_small.jpg" group-title="VOD: ACCAO",Star Trek Into Darkness
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9985.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars: Episode I - The Phantom Menace" tvg-logo="http://perolabranca.dynu.net:8000/images/n8V09dDc02KsSN6Q4hC2BX6hN8X_small.jpg" group-title="VOD: ACCAO",Star Wars: Episode I - The Phantom Menace
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9984.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars: Episode Ii - Attack Of The Clones" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xwtVoBmKbijKPIkgfviSM6cDjH5.jpg" group-title="VOD: ACCAO",Star Wars: Episode Ii - Attack Of The Clones
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9983.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars: Episode Iii - Revenge Of The Sith" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Na9l5M8Boe7Pb30I9IycTvCJ5p.jpg" group-title="VOD: ACCAO",Star Wars: Episode Iii - Revenge Of The Sith
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9982.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars" tvg-logo="http://perolabranca.dynu.net:8000/images/btTdmkgIvOi0FFip1sPuZI2oQG6_small.jpg" group-title="VOD: ACCAO",Star Wars
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Empire Strikes Back" tvg-logo="http://perolabranca.dynu.net:8000/images/6u1fYtxG5eqjhtCPDx04pJphQRW_small.jpg" group-title="VOD: ACCAO",The Empire Strikes Back
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Return of the Jedi" tvg-logo="http://perolabranca.dynu.net:8000/images/jx5p0aHlbPXqe3AH9G15NvmWaqQ_small.jpg" group-title="VOD: ACCAO",Return of the Jedi
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9979.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Bourne Identity" tvg-logo="http://perolabranca.dynu.net:8000/images/bXQIL36VQdzJ69lcjQR1WQzJqQR_small.jpg" group-title="VOD: ACCAO",The Bourne Identity
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9978.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Bourne Legacy" tvg-logo="http://perolabranca.dynu.net:8000/images/AnKnLsybNhnibvA3mba1ct9Nnb6_small.jpg" group-title="VOD: ACCAO",The Bourne Legacy
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9977.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Bourne Supremacy" tvg-logo="http://perolabranca.dynu.net:8000/images/jXwZgmqOtsqsXuB9oGhocOAegCM_small.jpg" group-title="VOD: ACCAO",The Bourne Supremacy
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9976.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Expendables" tvg-logo="http://perolabranca.dynu.net:8000/images/4gLFKsalwRy0ONzfYaRsKr5wilK_small.jpg" group-title="VOD: ACCAO",The Expendables
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9975.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Fate of the Furious" tvg-logo="http://perolabranca.dynu.net:8000/images/dImWM7GJqryWJO9LHa3XQ8DD5NH_small.jpg" group-title="VOD: ACCAO",The Fate of the Furious
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9974.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Twilight Saga: Breaking Dawn - Part 2" tvg-logo="http://perolabranca.dynu.net:8000/images/kJQPygYB8aNEevZZHRifyYrAdU9_small.jpg" group-title="VOD: ACCAO",The Twilight Saga: Breaking Dawn - Part 2
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9973.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Twilight Saga: Eclipse" tvg-logo="http://perolabranca.dynu.net:8000/images/4IIFFKd9vxrlicNbAPS8ONEgIFp_small.jpg" group-title="VOD: ACCAO",The Twilight Saga: Eclipse
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9972.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Twilight Saga: New Moon" tvg-logo="http://perolabranca.dynu.net:8000/images/4O6OCHVrXie2Th8asDn5utvlTwC_small.jpg" group-title="VOD: ACCAO",The Twilight Saga: New Moon
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9971.avi
+#EXTINF:-1 tvg-id="" tvg-name="The Woman Who Left" tvg-logo="http://perolabranca.dynu.net:8000/images/vKBkoUW62DLZjo7ctJRflRTXe67_small.jpg" group-title="VOD: ACCAO",The Woman Who Left
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/10001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Twilight" tvg-logo="http://perolabranca.dynu.net:8000/images/lcMp3AONdNhjYE9MmTtMMTOiRDP_small.jpg" group-title="VOD: ACCAO",Twilight
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9970.avi
+#EXTINF:-1 tvg-id="" tvg-name="Tulip Fever 2017" tvg-logo="http://perolabranca.dynu.net:8000/images/0491203.jpg" group-title="VOD: ROMANCE",Tulip Fever 2017
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Geostorm" tvg-logo="http://perolabranca.dynu.net:8000/images/nrsx0jEaBgXq4PWo7SooSnYJTv_small.jpg" group-title="VOD: ACCAO",Geostorm
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9717.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gerald's Game" tvg-logo="http://perolabranca.dynu.net:8000/images/32dippiypDdaKv7XFEfUlQ7kPup_small.jpg" group-title="VOD: TERROR",Gerald's Game
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9756.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Good Time" tvg-logo="http://perolabranca.dynu.net:8000/images/cz0egudCsfsTzwUAL03A5UzoHGT_small.jpg" group-title="VOD: ACCAO",Good Time
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Goon: Last of the Enforcers" tvg-logo="http://perolabranca.dynu.net:8000/images/emio9KDrLXqqX4wXa4YTacBQXG_small.jpg" group-title="VOD: COMEDIA",Goon: Last of the Enforcers
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9805.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hacker (2016)" tvg-logo="http://perolabranca.dynu.net:8000/images/3173594.jpg" group-title="VOD: BIOGRAPHY / DRAMA",Hacker (2016)
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9715.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hangman" tvg-logo="http://perolabranca.dynu.net:8000/images/iEpxKeX7SE3aLm9dTRIuk7o2kDA_small.jpg" group-title="VOD: ACCAO",Hangman
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9714.mp4
+#EXTINF:-1 tvg-id="" tvg-name="5 Headed Shark Attack" tvg-logo="http://perolabranca.dynu.net:8000/images/gi2mlvKKpbbXP1DwBUQAc8XGBgP_small.jpg" group-title="VOD: TERROR",5 Headed Shark Attack
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9804.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Home Again" tvg-logo="http://perolabranca.dynu.net:8000/images/pE4VHzhDZgvbx2QOllaXXPADiW1_small.jpg" group-title="VOD: COMEDIA",Home Again
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9803.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Honey 3 Dare To Dance 2016" tvg-logo="http://perolabranca.dynu.net:8000/images/4677938.jpg" group-title="VOD: ROMANCE",Honey 3 Dare To Dance 2016
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9713.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hyena Road" tvg-logo="http://perolabranca.dynu.net:8000/images/zdn34Jx3rRkhDGsD0qcB0cA1HzB_small.jpg" group-title="VOD: ACCAO",Hyena Road
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9712.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Infinity Chamber" tvg-logo="http://perolabranca.dynu.net:8000/images/3WDppnUdf6nKDnrhjxrGlekvMuA_small.jpg" group-title="VOD: BIOGRAPHY / DRAMA",Infinity Chamber
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9802.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Almost Friends" tvg-logo="http://perolabranca.dynu.net:8000/images/uJMknKxZagbhAYiiMjEaFnsZzRR_small.jpg" group-title="VOD: COMEDIA",Almost Friends
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9741.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Assassin PT" tvg-logo="http://perolabranca.dynu.net:8000/images/w6vjeHx3UEaBXIyc8VFqyZYKznD_small.jpg" group-title="VOD: ACCAO",American Assassin PT
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9740.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Made" tvg-logo="http://perolabranca.dynu.net:8000/images/23ILgoPSO5ShKcTZOuiTVfqFAUB_small.jpg" group-title="VOD: ACCAO",American Made
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9739.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Annabelle: Creation" tvg-logo="http://perolabranca.dynu.net:8000/images/tb86j8jVCVsdZnzf8I6cIi65IeM_small.jpg" group-title="VOD: TERROR",Annabelle: Creation
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9764.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anomalous" tvg-logo="http://perolabranca.dynu.net:8000/images/fDqKcjV7mRykX4rAGCPQnLsBaWK_small.jpg" group-title="VOD: TERROR",Anomalous
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9763.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atomic Blonde" tvg-logo="http://perolabranca.dynu.net:8000/images/kV9R5h0Yct1kR8Hf8sJ1nX0Vz4x_small.jpg" group-title="VOD: ACCAO",Atomic Blonde
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9738.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Genius" tvg-logo="http://perolabranca.dynu.net:8000/images/mgyvwqn5SYKhfg5kofZDfgH8R0q_small.jpg" group-title="VOD: COMEDIA",Bad Genius
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9737.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beastly" tvg-logo="http://perolabranca.dynu.net:8000/images/yp7k0Run4cDGygfAmXpee4qEwAA_small.jpg" group-title="VOD: ROMANCE",Beastly
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9736.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bingo: The King of the Mornings" tvg-logo="http://perolabranca.dynu.net:8000/images/twXRzS0vloJboUiLkvrMFvFf2qD_small.jpg" group-title="VOD: COMEDIA",Bingo: The King of the Mornings
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9735.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Birth of the Dragon" tvg-logo="http://perolabranca.dynu.net:8000/images/a7HY9butbuO8XwB3uBxQ98MBxd4_small.jpg" group-title="VOD: ACCAO",Birth of the Dragon
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bon Cop Bad Cop" tvg-logo="http://perolabranca.dynu.net:8000/images/kidOf2K4pEM0Llsm8aIRcANTcSF_small.jpg" group-title="VOD: ACCAO",Bon Cop Bad Cop
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brawl in Cell Block 99" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/500tYZ6zeW7HAkjMtq4sWCO7SXn.jpg" group-title="VOD: TERROR",Brawl in Cell Block 99
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bring It On: Worldwide #Cheersmack" tvg-logo="http://perolabranca.dynu.net:8000/images/jNZnw3TXNFWv7KVhZIDOszZnUH9_small.jpg" group-title="VOD: COMEDIA",Bring It On: Worldwide #Cheersmack
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bushwick" tvg-logo="http://perolabranca.dynu.net:8000/images/9fGjmzxdiKWsrlY3syrm2aXeTq7_small.jpg" group-title="VOD: ACCAO",Bushwick
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ClownTown" tvg-logo="http://perolabranca.dynu.net:8000/images/cpOFmB6CGpS1J3B52rVd6mMgzo1_small.jpg" group-title="VOD: TERROR",ClownTown
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9761.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Colonia" tvg-logo="http://perolabranca.dynu.net:8000/images/buEhROtfCEFNhjPWdJVgeVnrThj_small.jpg" group-title="VOD: ROMANCE",Colonia
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9757.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comfort" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7N4SxFaFHMDQLWChBNG8NVs9W2a.jpg" group-title="VOD: ROMANCE",Comfort
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cuba And The Cameraman 2017" tvg-logo="http://perolabranca.dynu.net:8000/images/7320560.jpg" group-title="VOD: BIOGRAPHY / DRAMA",Cuba And The Cameraman 2017
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9729.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dag Ii (2016)" tvg-logo="http://perolabranca.dynu.net:8000/images/5813916.jpg" group-title="VOD: BIOGRAPHY / DRAMA",Dag Ii (2016)
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9728.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Detroit 2017" tvg-logo="http://perolabranca.dynu.net:8000/images/4017836.jpg" group-title="VOD: TERROR",Detroit 2017
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diana In Her Own Words 2017" tvg-logo="http://perolabranca.dynu.net:8000/images/7188868.jpg" group-title="VOD: BIOGRAPHY / DRAMA",Diana In Her Own Words 2017
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9726.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dirty Dancing 2017" tvg-logo="http://perolabranca.dynu.net:8000/images/0092890.jpg" group-title="VOD: ROMANCE",Dirty Dancing 2017
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9725.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drone" tvg-logo="http://perolabranca.dynu.net:8000/images/o1Zp7DBOkxDhGCg6fXhuaFaFwsN_small.jpg" group-title="VOD: ACCAO",Drone
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dunkirk" tvg-logo="http://perolabranca.dynu.net:8000/images/ebSnODDg9lbsMIaWg2uAbjn7TO5_small.jpg" group-title="VOD: ACCAO",Dunkirk
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9723.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Earthtastrophe 2016" tvg-logo="http://perolabranca.dynu.net:8000/images/4503324.jpg" group-title="VOD: TERROR",Earthtastrophe 2016
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Escape Room 2017" tvg-logo="http://perolabranca.dynu.net:8000/images/5159414.jpg" group-title="VOD: TERROR",Escape Room 2017
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Everything Everything 2017" tvg-logo="http://perolabranca.dynu.net:8000/images/5001718.jpg" group-title="VOD: ROMANCE",Everything Everything 2017
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9720.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Extortion ." tvg-logo="http://perolabranca.dynu.net:8000/images/nmIHFblhZ2uBGepSYzvKYFDfvhp_small.jpg" group-title="VOD: ACCAO",Extortion .
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9719.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Dog's Purpose ." tvg-logo="http://perolabranca.dynu.net:8000/images/3jcNvhtVQe5Neoffdic39fRactM_small.jpg" group-title="VOD: COMEDIA",A Dog's Purpose .
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Acts of Vengeance PT" tvg-logo="http://perolabranca.dynu.net:8000/images/r5o6vWPYOQs6bv91gQ8kQs2zQYl_small.jpg" group-title="VOD: ACCAO",Acts of Vengeance PT
+http://fanpremium.dynu.net:8000/movie/AlvaroGalrinho/hatdnrlkd/9742.mp4
+#EXTINF:-1 tvg-id="" tvg-name="RADIO ORBITAL MIX" tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/Estação-Orbital-101.9-FM-Rádio.png" group-title="",RADIO ORBITAL MIX
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/192.ts
+#EXTINF:-1 tvg-id="" tvg-name="RADIO RTL LU" tvg-logo="http://vignette3.wikia.nocookie.net/desencyclopedie/images/d/d4/Logo.jpg/revision/latest/scale-to-width-down/200?cb=20100817122729" group-title="",RADIO RTL LU
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/205.ts
+#EXTINF:-1 tvg-id="" tvg-name="FUN RADIO" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/eb/Fun_Radio.png/640px-Fun_Radio.png" group-title="",FUN RADIO
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/206.ts
+#EXTINF:-1 tvg-id="" tvg-name="94 FM" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/radio-94-fm.png" group-title="PORTUGAL",94 FM
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/3216.ts
+#EXTINF:-1 tvg-id="" tvg-name="CIDADE FM" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/radio-cidade-fm.png" group-title="PORTUGAL",CIDADE FM
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/3210.ts
+#EXTINF:-1 tvg-id="" tvg-name="M80" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/radio-m80.png" group-title="PORTUGAL",M80
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/3211.ts
+#EXTINF:-1 tvg-id="" tvg-name="MARGINAL FM" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/radio-marginal.png" group-title="PORTUGAL",MARGINAL FM
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/3213.ts
+#EXTINF:-1 tvg-id="" tvg-name="MEGA HITS" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/mega-hits-fm.png" group-title="PORTUGAL",MEGA HITS
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/3214.ts
+#EXTINF:-1 tvg-id="" tvg-name="NOVA ERA RADIO" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/radio-nova-era.png" group-title="",NOVA ERA RADIO
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/464.ts
+#EXTINF:-1 tvg-id="" tvg-name="ORBITAL" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/radio-orbital.png" group-title="PORTUGAL",ORBITAL
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/3217.ts
+#EXTINF:-1 tvg-id="" tvg-name="RADAR FM" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/radio-radar.png" group-title="PORTUGAL",RADAR FM
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/3212.ts
+#EXTINF:-1 tvg-id="" tvg-name="RADIO COMERCIAL" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/radio-comercial.png" group-title="",RADIO COMERCIAL
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/3148.ts
+#EXTINF:-1 tvg-id="" tvg-name="RADIO RENASCENCA" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/renascenca.png" group-title="PORTUGAL",RADIO RENASCENCA
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/3215.ts
+#EXTINF:-1 tvg-id="" tvg-name="RFM" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/antena-3.png" group-title="",RFM
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/3147.ts
+#EXTINF:-1 tvg-id="" tvg-name="TSF" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/radio-tsf.png" group-title="PORTUGAL",TSF
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/3218.ts
+#EXTINF:-1 tvg-id="" tvg-name="RADIO DJ FG" tvg-logo="https://cdn.webrad.io/images/logos/ecouterradioenligne-com/fg-dj-radio.png" group-title="PORTUGAL",RADIO DJ FG
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/3223.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Nove3cinco" tvg-logo="http://cdn.sintonizate.net/r/68407.png" group-title="PORTUGAL",Radio Nove3cinco
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/3227.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Benedita 88.1 FM" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/radio-benedita-88-1-fm-alcobaca.png" group-title="",Radio Benedita 88.1 FM
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/11239.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Foia 97.1 FM" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/radio-foia-97-1-fm-monchique.png" group-title="",Rádio Foia 97.1 FM
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/11241.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Marinhais 102.5 FM" tvg-logo="http://www.radiomarinhais.pt/images/locutor_01.jpg" group-title="",Radio Marinhais 102.5 FM
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/11236.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Pernes 101.7 FM" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/radio-pernes-101-7-fm-santarem.png" group-title="",Radio Pernes 101.7 FM
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/11237.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Sim 99.5 FM Rio Maior" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/radio-sim-99-5-rio-maior.png" group-title="",Rádio Sim 99.5 FM Rio Maior
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/11238.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Voz de Alenquer 93.5 FM" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/radio-voz-de-alenquer-93-5-fm-alenquer.png" group-title="",Radio Voz de Alenquer 93.5 FM
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/11240.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIRGIN RADIO" tvg-logo="" group-title="PORTUGAL",VIRGIN RADIO
+http://fanpremium.dynu.net:8000/live/AlvaroGalrinho/hatdnrlkd/3224.ts
